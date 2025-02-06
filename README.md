@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 ## 👨‍💻 Projects & Info
 🔭 I’m currently working on a Threat Detection system using Yolo v11  
