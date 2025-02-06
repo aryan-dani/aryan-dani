@@ -41,6 +41,7 @@
     <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Aryan%20Dani&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
     </a>
+    <br>
     <a href="https://x.com/Killfall15" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Aryan%20Dani&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
     </a>
