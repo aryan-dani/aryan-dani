@@ -1,3 +1,4 @@
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 <h3 align="left">
   Hello, World! 🌍 I'm Aryan Dani,<br>
   An aspiring AI Engineer and Full-Stack Web Developer<br>
@@ -9,7 +10,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+
 
 ## 👨‍💻 Projects & Info
 🔭 I’m currently working on a Threat Detection system using Yolo v11  
