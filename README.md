@@ -17,7 +17,7 @@
 🌱 I’m currently learning Neural Networks, Variational Autoencoders, Generative Adversarial Networks (GANs) <br>
 👯 I’m looking to collaborate on innovative full-stack web applications and AI projects.  
 🤝 I’m looking for help with Machine Learning, Frontend Web Development, and Deep Learning.  
-👨‍💻 All of my projects are available at [My Portfolio](https://github.com/duneshime/Portfolio_Using_SASS)  
+👨‍💻 All of my projects are available at [My Portfolio](https://aryan-dani.github.io/Portfolio_Using_SASS/)  
 💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep Learning  
 📫 How to reach me: [daniaryan212@gmail.com](mailto:daniaryan212@gmail.com)  
 ☕ Fun Fact: My brain runs on tea—no tea, no code! 😆
@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="300" height="140" alt="Stats Graph"  />
-  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5" width="300" height="140" alt="Streak Graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="300" height="140" alt="Languages Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="200" height="140" alt="Stats Graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5" width="200" height="140" alt="Streak Graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="200" height="140" alt="Languages Graph"  />
 </div>
 
 ---
@@ -38,18 +38,18 @@
   <!-- Socials Section -->
   <div style="display: inline-block; vertical-align: top;">
     <h3>Socials</h3>
-    <a href="https://www.instagram.com/aryandani_06/?hl=en" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Aryan%20Dani&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-    </a>
     <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Aryan%20Dani&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
     </a>
-    <br>
     <a href="https://x.com/Killfall15" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Aryan%20Dani&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
     </a>
+     <br>
     <a href="https://linktr.ee/aryandani06" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=Aryan%20Dani&color=1de9b6&logoColor=white&style=for-the-badge" height="35" alt="Linktree" />
+    </a>
+    <a href="https://www.instagram.com/aryandani_06/?hl=en" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Aryan%20Dani&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
     </a>
   </div>
 
