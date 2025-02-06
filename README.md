@@ -3,8 +3,25 @@
 🔭 I’m currently working on a Threat Detection system using Yolo v11<br>🌱 I’m currently learning Neural networks, Variational Autoencoders, Generative Adversarial Networks (GANs), Angular.js, Node.js<br>👯 I’m looking to collaborate on innovative Full stack web applications and AI projects.<br>🤝 I’m looking for help with Machine learning, Frontend web development and Deep Learning.<br>👨‍💻 All of my projects are available at https://github.com/duneshime/Portfolio_Using_SASS<br>💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep learning<br>📫 How to reach me daniaryan212@gmail.com<br>⚡ Fun fact I can't function without tea
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryandani_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryandani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@daniaryan212) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/daniaryan212) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Background-Emu4821) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniaryan212@gmail.com) 
+# 🌐 Socials:
+<div align="left">
+  <a href="https://www.instagram.com/aryandani_06/?hl=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Aryan%20Dani&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Aryan%20Dani&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <br>
+  <a href="https://x.com/Killfall15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Aryan%20Dani&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <br>
+  <a href="https://linktr.ee/aryandani06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=Aryan%20Dani&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <br>
+</div>
 
 # 💻 Tech Stack:
 
@@ -61,8 +78,11 @@
 # 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br>
   <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <br>
 </div>
 
 
