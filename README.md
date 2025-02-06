@@ -4,33 +4,28 @@
   Passionate about building intelligent systems and dynamic web applications. 🚀
 </h3>
 
-## 👨‍💻 Projects & Info
-🔭 I’m currently working on a Threat Detection system using Yolo v11  
-🌱 I’m currently learning Neural Networks, Variational Autoencoders, Generative Adversarial Networks (GANs), Angular.js, Node.js  
-👯 I’m looking to collaborate on innovative full-stack web applications and AI projects.  
-🤝 I’m looking for help with Machine Learning, Frontend Web Development, and Deep Learning.  
-👨‍💻 All of my projects are available at [this repo](https://github.com/duneshime/Portfolio_Using_SASS)  
-💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep Learning  
-📫 How to reach me: [daniaryan212@gmail.com](mailto:daniaryan212@gmail.com)  
-⚡ Fun fact: I can't function without tea
-
----
-
-## 📊 GitHub Stats & Trophies
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="300" height="140" alt="Stats Graph"  />
-  
-  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5&hide_border=true" width="300" height="140" alt="Streak Graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="300" height="140" alt="Languages Graph"  />
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=aryan-dani&color=blue)
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-<div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aryan-dani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+## 👨‍💻 Projects & Info
+🔭 I’m currently working on a Threat Detection system using Yolo v11  
+🌱 I’m currently learning Neural Networks, Variational Autoencoders, Generative Adversarial Networks (GANs) <br>
+👯 I’m looking to collaborate on innovative full-stack web applications and AI projects.  
+🤝 I’m looking for help with Machine Learning, Frontend Web Development, and Deep Learning.  
+👨‍💻 All of my projects are available at [My Portfolio](https://github.com/duneshime/Portfolio_Using_SASS)  
+💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep Learning  
+📫 How to reach me: [daniaryan212@gmail.com](mailto:daniaryan212@gmail.com)  
+☕ Fun Fact: My brain runs on tea—no tea, no code! 😆
+
+---
+
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="300" height="140" alt="Stats Graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5" width="300" height="140" alt="Streak Graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="300" height="140" alt="Languages Graph"  />
 </div>
 
 ---
@@ -83,10 +78,9 @@
   </div>
 </div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=aryan-dani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## Contributions 
+<img src="https://github-contributor-stats.vercel.app/api?username=aryan-dani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+ 
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/snake.svg" alt="Snake animation" />
