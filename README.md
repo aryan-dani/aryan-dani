@@ -16,7 +16,6 @@
 🔭 I’m currently working on a Threat Detection system using Yolo v11  
 🌱 I’m currently learning Neural Networks, Variational Autoencoders, Generative Adversarial Networks (GANs) <br>
 👯 I’m looking to collaborate on innovative full-stack web applications and AI projects.  
-🤝 I’m looking for help with Machine Learning, Frontend Web Development, and Deep Learning.  
 👨‍💻 All of my projects are available at [My Portfolio](https://aryan-dani.github.io/Portfolio_Using_SASS/)  
 💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep Learning  
 📫 How to reach me: [daniaryan212@gmail.com](mailto:daniaryan212@gmail.com)  
@@ -26,59 +25,56 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="200" height="140" alt="Stats Graph"  />
-  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5" width="200" height="140" alt="Streak Graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="200" height="140" alt="Languages Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="300" height="150" alt="Stats Graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryan-dani&locale=en&mode=weekly&theme=dark&border_radius=5" width="300" height="150" alt="Streak Graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="300" height="150" alt="Languages Graph"  />
 </div>
 
 ---
 
 ## 🌐 Socials & 💻 Tech Stack
-<div align="left">
-  <!-- Socials Section -->
-  <div style="display: inline-block; vertical-align: top;">
-    <h3>Socials</h3>
-    <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Aryan%20Dani&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/Killfall15" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Aryan%20Dani&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
-    </a>
-     <br>
-    <a href="https://linktr.ee/aryandani06" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=Aryan%20Dani&color=1de9b6&logoColor=white&style=for-the-badge" height="35" alt="Linktree" />
-    </a>
-    <a href="https://www.instagram.com/aryandani_06/?hl=en" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Aryan%20Dani&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-    </a>
-  </div>
 
+<div>
+<h3>Socials</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aryandani/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/Killfall15)
+  [![Linktree](https://img.shields.io/badge/-Linktree-1de9b6?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/aryandani06)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/aryandani_06/?hl=en)
+  
+</div>
   <!-- Tech Stack Section -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
     <h3>Tech Stack</h3>
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
-    <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="Google Cloud" />
-    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" />
-    <img src="https://skillicons.dev/icons?i=angular" height="30" alt="AngularJS" />
-    <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-    <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
-    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="PowerShell" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jQuery" />
-    <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-    <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions" />
+    <div align="left">
+  <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+  </p>
+</div>
+
   </div>
 </div>
 
