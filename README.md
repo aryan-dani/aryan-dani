@@ -16,7 +16,7 @@
 🔭 I’m currently working on a Threat Detection system using Yolo v11  
 🌱 I’m currently learning Neural Networks, Variational Autoencoders, Generative Adversarial Networks (GANs) <br>
 👯 I’m looking to collaborate on innovative full-stack web applications and AI projects.  
-👨‍💻 All of my projects are available at [My Portfolio](https://aryan-dani.github.io/Portfolio_Using_SASS/)  
+👨‍💻 All of my projects are available at [My Portfolio](https://aryan-dani.github.io/Portfolio/)  
 💬 Ask me about C, C++, Python, HTML, CSS, JavaScript, Machine Learning, SQL, Deep Learning  
 📫 How to reach me: [daniaryan212@gmail.com](mailto:daniaryan212@gmail.com)  
 ☕ Fun Fact: My brain runs on tea—no tea, no code! 😆
