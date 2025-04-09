@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="250" height="140" alt="Stats Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" width="250" height="160" alt="Stats Graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" width="250" height="140" alt="Languages Graph"  />
 </div>
 
