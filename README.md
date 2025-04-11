@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </p>
-  
+
 
 ---
 
