@@ -7,59 +7,65 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryan-dani&color=blue)
-<div align="left">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-## 🧰 Tech Stack Breakdown
-
-### 💻 Languages:
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### 🌐 Frontend:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### 🧠 AI / ML:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### ⚙️ Tools & Platforms:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
 ---
 
+## 🧰 Tech Stack Breakdown
+
+### 💻 Languages
+- **C/C++**: For systems programming and performance-critical applications.  
+- **Python**: Data science, AI/ML, scripting, and automation.  
+- **JavaScript/TypeScript**: Building interactive, scalable web applications.
+
+### 🌐 Frontend
+- **HTML5, CSS3, SASS**: Crafting responsive, visually appealing interfaces.  
+- **Bootstrap**: Rapid prototyping and responsive design.  
+- **Angular & React**: Dynamic single-page applications (SPAs) with modern frameworks.
+
+### 🧠 AI / ML
+- **TensorFlow (with Keras)**: Deep learning for image and text processing.  
+- **PyTorch**: Experimenting with neural networks and real-time AI solutions.  
+- **OpenCV**: Computer vision for real-time object detection.
+
+### ⚙️ Tools & Platforms
+- **VS Code**: Primary editor with productivity-boosting extensions.  
+- **Git & GitHub**: Version control and collaborative development.  
+- **Google Cloud Platform (GCP)**: Cloud services for AI and data processing.  
+- **AWS**: Scalable cloud infrastructure for applications.
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🔫 **Threat Detection YOLO v11** | Python, Deep Learning, OpenCV | Real-time object detection to identify threats via CCTV. |
-| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio) | HTML, CSS, JS | Interactive site showcasing my work and journey. |
-| 📊 **Expense Tracker** | Google Forms, Make.com | Automated personal expense tracker using Google Forms and Sheets. |
-| 🧬 **Threat Detection System** | CNN, YOLOv11 | Final year major project on real-time human detection. |
+| 🔫 [**Threat Detection YOLO v11**](https://github.com/aryan-dani/threat-detection-yolo) | Python, Deep Learning, OpenCV, YOLOv11 | Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities. |
+| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio) | HTML, CSS, JS, Angular | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design. |
+| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker) | Google Forms, Make.com, Google Sheets | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis. |
+| 🧬 **Threat Detection System** | CNN, YOLOv11, EfficientNetv2 | Final-year project for real-time human detection and threat assessment using advanced CNN architectures. |
 
 ---
 
 ## 🧪 Certifications
 
-- 📜 IBM Data Science Professional Certificate
-- 🧠 Full-Stack Web Dev by Colt Steele
-- 🛠️ Angular Course by Maximilian Schwarzmüller
-- 📊 Data Visualization, Python for Everybody
+- 📜 **[IBM Data Science Professional Certificate](https://example.com)**  
+  Mastered data analysis, visualization, and machine learning with Python.
+
+- 🧠 **[Full-Stack Web Dev by Colt Steele](https://example.com)**  
+  Built MERN stack applications from scratch.
+
+- 🛠️ **[Angular Course by Maximilian Schwarzmüller](https://example.com)**  
+  Developed scalable SPAs with Angular.
+
+- 📊 **[Data Visualization, Python for Everybody](https://example.com)**  
+  Enhanced skills in data storytelling and Python programming.
 
 ---
 
@@ -69,21 +75,21 @@
 journey
     title Aryan's Learning Path
     section 2023
-      🐍 Learned Python Basics : 5
-      🌐 Built first HTML page : 4
+        🐍 Learned Python Basics: Beginner
+        🌐 Built First HTML Page: Novice
     section 2024
-      💻 Full-Stack Bootcamp Begins : 5
-      📈 Intern @ Artem Health Tech : 5
-      🔍 Built Data Science Projects : 4
+        💻 Full-Stack Bootcamp Begins: Intermediate
+        📈 Intern @ Artem Health Tech: Gained Industry Experience
+        🔍 Built Data Science Projects: Advanced Beginner
     section 2025
-      🚀 Threat Detection System : 5
-      🔗 Tech content plans incoming : 4
+        🚀 Threat Detection System: Advanced
+        🔗 Tech Content Plans Incoming: Content Creator
 ```
 ---
 
 ## 💡 What I'm Up To
 
-- 🔥 Currently building real-time threat detection using YOLOv11 and EfficientNetv2.
+- 🔥 Currently building real-time threat detection using YOLOv11.
 - 🧠 Learning deep learning and getting comfy with PyTorch & TensorFlow.
 - 📈 Leveling up my full-stack dev game with Angular and React.
 - 💬 Planning to start tech content—YouTube/Instagram incoming soon!
@@ -92,15 +98,13 @@ journey
 
 ## 📫 Let's Connect
 
+Feel free to reach out or just say hi!
 
-<div>
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aryandani/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/Killfall15)
-  [![Linktree](https://img.shields.io/badge/-Linktree-1de9b6?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/aryandani06)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/aryandani_06/?hl=en)
-  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanDani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-dani)
+[![Instagram](https://img.shields.io/badge/Instagram-%40techwitharyan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techwitharyan)
+[![Email](https://img.shields.io/badge/Email-aryaandani%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryaandani@gmail.com)
+
+---
 
 ## ✨ Fun Facts About Me
 
@@ -120,6 +124,7 @@ journey
 </div>
 
 ---
+
 <!-- Snake Animation -->
 
 <picture>
