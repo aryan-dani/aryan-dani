@@ -121,23 +121,38 @@
 
 ---
 
-## 🧪 Certifications
+## <span style="font-family: 'Poppins', sans-serif;">🧪 Certifications</span>
 
-- 📜 **[IBM Data Science Professional Certificate](https://example.com)**  
-  Mastered data analysis, visualization, and machine learning with Python.
-
-- 🧠 **[Full-Stack Web Dev by Colt Steele](https://example.com)**  
-  Built MERN stack applications from scratch.
-
-- 🛠️ **[Angular Course by Maximilian Schwarzmüller](https://example.com)**  
-  Developed scalable SPAs with Angular.
-
-- 📊 **[Data Visualization, Python for Everybody](https://example.com)**  
-  Enhanced skills in data storytelling and Python programming.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">📜</td>
+      <td><strong><a href="https://example.com">IBM Data Science Professional Certificate</a></strong><br>
+      Mastered data analysis, visualization, and machine learning with Python.</td>
+    </tr>
+    <tr>
+      <td align="center">🧠</td>
+      <td><strong><a href="https://example.com">Full-Stack Web Dev by Colt Steele</a></strong><br>
+      Built MERN stack applications from scratch.</td>
+    </tr>
+    <tr>
+      <td align="center">🛠️</td>
+      <td><strong><a href="https://example.com">Angular Course by Maximilian Schwarzmüller</a></strong><br>
+      Developed scalable SPAs with Angular.</td>
+    </tr>
+    <tr>
+      <td align="center">📊</td>
+      <td><strong><a href="https://example.com">Data Visualization, Python for Everybody</a></strong><br>
+      Enhanced skills in data storytelling and Python programming.</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📅 Journey So Far
+## <span style="font-family: 'Poppins', sans-serif;">📅 Journey So Far</span>
+
+<div align="center">
 
 ```mermaid
 journey
@@ -153,6 +168,8 @@ journey
         🚀 Threat Detection System: Advanced
         🔗 Tech Content Plans Incoming: Content Creator
 ```
+
+</div>
 
 ---
 
