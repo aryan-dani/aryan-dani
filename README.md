@@ -1,5 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%" style="border-radius:10px; margin-bottom:15px;" />
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg"
+       alt="Aryan Dani Banner"
+       width="100%"
+       style="border-radius:10px; margin-bottom:15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" />
   
   <!-- Animated title with monochrome theme -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Tech+Enthusiast;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" style="font-family: 'Poppins', sans-serif;" />
@@ -54,19 +57,17 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600;">🧰 Tech Stack</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; margin-bottom: 30px;">
+  🧰 Tech Stack
+</h2>
 
 <div align="center">
-  <!-- Tech stack animation container with monochrome theme -->
-  <p align="center" style="font-family: 'Poppins', sans-serif;">
-    <a href="https://github.com/aryan-dani">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=555555&center=true&width=435&lines=Frontend+%26+Backend+Developer;AI+%26+ML+Expert;Computer+Vision+Enthusiast" alt="Tech Roles Typing SVG" />
-    </a>
-  </p>
+  <!-- Single concise description without typing animation -->
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">Frontend & Backend Development | AI & ML Engineering | Computer Vision</h3>
   
   <!-- Languages section with consistent monochrome badges -->
-  <h4>💻 Programming Languages</h4>
-  <p>
+  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">💻 Programming Languages</h4>
+  <p style="font-family: 'Poppins', sans-serif;">
     <img src="https://img.shields.io/badge/c++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -74,7 +75,7 @@
   </p>
 
   <!-- Frontend section with monochrome icons -->
-  <h4>🌐 Frontend Development</h4>
+  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🌐 Frontend Development</h4>
   <p>
     <img src="https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/css3-555555?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -85,7 +86,7 @@
   </p>
   
   <!-- AI/ML section with monochrome badges -->
-  <h4>🧠 AI / Machine Learning</h4>
+  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🧠 AI / Machine Learning</h4>
   <p>
     <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/PyTorch-555555?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -95,7 +96,7 @@
   </p>
 
   <!-- Tools section with monochrome badges -->
-  <h4>⚙️ Tools & Platforms</h4>
+  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">⚙️ Tools & Platforms</h4>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -107,7 +108,7 @@
 
 ## 🚀 Featured Projects
 
-<div>
+<div style="font-family: 'Poppins', sans-serif; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px; padding: 24px; border-radius:10px;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
     <tr>
       <td width="50%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
@@ -175,7 +176,7 @@
 
 ## 🧪 Certifications & Learning
 
-<div>
+<div style="font-family: 'Poppins', sans-serif;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
     <tr>
       <td align="center" width="48%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
@@ -231,7 +232,7 @@
 ## 📅 My Tech Journey
 
 <!-- Improved Tech Journey Section -->
-<div>
+<div style="font-family: 'Poppins', sans-serif;">
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=1&section=header&width=100%" style="margin-bottom:15px;" />
   </div>
@@ -306,7 +307,7 @@
 
 ## 💡 Current Focus
 
-<div>
+<div style="font-family: 'Poppins', sans-serif;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
     <div style="padding:20px; border:1px solid #ddd; border-radius:10px; background:#f8f8f8;">
       <div align="center">
@@ -346,7 +347,7 @@
 
 ## 📫 Let's Connect
 
-<div>
+<div style="font-family: 'Poppins', sans-serif;">
   <p>I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
   
   <div align="center" style="margin:25px 0;">
@@ -371,7 +372,7 @@
 
 ## ✨ Fun Facts About Me
 
-<div style="padding: 15px; background: #f8f8f8; border-radius: 10px; border: 1px solid #ddd; margin: 20px 0;">
+<div style="font-family: 'Poppins', sans-serif; padding: 15px; background: #f8f8f8; border-radius: 10px; border: 1px solid #ddd; margin: 20px 0;">
   <ul>
     <li>🧋 Addicted to tea, not coffee (don't @ me 😤).</li>
     <li>🤖 Could talk about AI, tech, and gadgets for hours.</li>
@@ -382,13 +383,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=vue-dark&hide_border=true" />
-  <br><br>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=vue-dark&hide_border=true" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=vue-dark&hide_border=true" width="50%" />
+<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 40px;">
+  <!-- Improved stats layout with borders and shadows -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=vue-dark&hide_border=false&stroke=0000&background=060A0CD0&ring=333333&fire=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=555555&sideLabels=555555" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 15px;" />
+  
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=vue-dark&hide_border=false&border_color=333333&bg_color=060A0CD0&title_color=555555&text_color=FFFFFF" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=vue-dark&hide_border=false&border_color=333333&bg_color=060A0CD0&title_color=555555&text_color=FFFFFF&icon_color=555555" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </div>
+  
+  <!-- Activity graph with monochrome theme -->
+  <a href="https://github.com/aryan-dani/github-readme-activity-graph">
+    <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=060A0CD0&color=FFFFFF&line=333333&point=555555&hide_border=false&area=true" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;" />
+  </a>
 </div>
 
 <!-- Snake Animation -->
@@ -398,9 +406,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
 </picture>
 
-<div align="center" style="margin-top: 30px;">
-  <h3>Thanks for stopping by ✨</h3>
+<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 30px;">
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #333;">Thanks for stopping by ✨</h3>
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" />
   <br>
-  <em>Let's build cool things together! 🚀</em>
+  <em style="color: #555;">Let's build cool things together! 🚀</em>
 </div>
