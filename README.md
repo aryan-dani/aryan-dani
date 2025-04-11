@@ -1,9 +1,20 @@
 <div align="center">
   <img src="banner_github.jpg" alt="Aryan Dani Banner" width="100%" />
-  <h1>Hey, I'm Aryan 👋</h1>
-  <h3>AI Enthusiast • Full-Stack Web Dev • Tech Lover • Tea Addict 🍵</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&width=435&lines=Building+Real+Time+AI+Solutions;Loving+Full-Stack+Development;Always+Learning+%26+Leveling+Up!" alt="Typing SVG" />
+  <h1 style="font-family: 'Poppins', sans-serif;">✨ Hey, I'm Aryan 👋 ✨</h1>
+  <h3 style="font-family: 'Poppins', sans-serif;">AI Enthusiast • Full-Stack Web Dev • Tech Lover • Tea Addict 🍵</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=3000&pause=1000&color=F97316&width=435&lines=Building+Real+Time+AI+Solutions;Loving+Full-Stack+Development;Always+Learning+%26+Leveling+Up!" alt="Typing SVG" />
 </div>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+  * {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+</style>
 
 ---
 
@@ -17,39 +28,96 @@
 
 ---
 
-## 🧰 Tech Stack Breakdown
+## <span style="font-family: 'Poppins', sans-serif;">🧰 Tech Stack Breakdown</span>
 
-### 💻 Languages
-- **C/C++**: For systems programming and performance-critical applications.  
-- **Python**: Data science, AI/ML, scripting, and automation.  
-- **JavaScript/TypeScript**: Building interactive, scalable web applications.
+<div align="center">
 
-### 🌐 Frontend
-- **HTML5, CSS3, SASS**: Crafting responsive, visually appealing interfaces.  
-- **Bootstrap**: Rapid prototyping and responsive design.  
-- **Angular & React**: Dynamic single-page applications (SPAs) with modern frameworks.
+### <span style="font-family: 'Poppins', sans-serif;">💻 Languages</span>
 
-### 🧠 AI / ML
-- **TensorFlow (with Keras)**: Deep learning for image and text processing.  
-- **PyTorch**: Experimenting with neural networks and real-time AI solutions.  
-- **OpenCV**: Computer vision for real-time object detection.
+<table align="center">
+  <tr>
+    <td align="center"><strong>C/C++</strong></td>
+    <td>For systems programming and performance-critical applications</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Python</strong></td>
+    <td>Data science, AI/ML, scripting, and automation</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>JavaScript/TypeScript</strong></td>
+    <td>Building interactive, scalable web applications</td>
+  </tr>
+</table>
 
-### ⚙️ Tools & Platforms
-- **VS Code**: Primary editor with productivity-boosting extensions.  
-- **Git & GitHub**: Version control and collaborative development.  
-- **Google Cloud Platform (GCP)**: Cloud services for AI and data processing.  
-- **AWS**: Scalable cloud infrastructure for applications.
+### <span style="font-family: 'Poppins', sans-serif;">🌐 Frontend</span>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>HTML5, CSS3, SASS</strong></td>
+    <td>Crafting responsive, visually appealing interfaces</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Bootstrap</strong></td>
+    <td>Rapid prototyping and responsive design</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Angular & React</strong></td>
+    <td>Dynamic single-page applications (SPAs) with modern frameworks</td>
+  </tr>
+</table>
+
+### <span style="font-family: 'Poppins', sans-serif;">🧠 AI / ML</span>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>TensorFlow (with Keras)</strong></td>
+    <td>Deep learning for image and text processing</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>PyTorch</strong></td>
+    <td>Experimenting with neural networks and real-time AI solutions</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>OpenCV</strong></td>
+    <td>Computer vision for real-time object detection</td>
+  </tr>
+</table>
+
+### <span style="font-family: 'Poppins', sans-serif;">⚙️ Tools & Platforms</span>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>VS Code</strong></td>
+    <td>Primary editor with productivity-boosting extensions</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Git & GitHub</strong></td>
+    <td>Version control and collaborative development</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Google Cloud Platform (GCP)</strong></td>
+    <td>Cloud services for AI and data processing</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AWS</strong></td>
+    <td>Scalable cloud infrastructure for applications</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## <span style="font-family: 'Poppins', sans-serif;">🚀 Featured Projects</span>
 
-| Project | Tech | Description |
-|--------|------|-------------|
+<div align="center">
+
+| Project                                                                                 | Tech                                   | Description                                                                                                                      |
+| --------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 🔫 [**Threat Detection YOLO v11**](https://github.com/aryan-dani/threat-detection-yolo) | Python, Deep Learning, OpenCV, YOLOv11 | Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities. |
-| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio) | HTML, CSS, JS, Angular | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design. |
-| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker) | Google Forms, Make.com, Google Sheets | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis. |
-| 🧬 **Threat Detection System** | CNN, YOLOv11, EfficientNetv2 | Final-year project for real-time human detection and threat assessment using advanced CNN architectures. |
+| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio)                      | HTML, CSS, JS, Angular                 | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.                |
+| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker)                 | Google Forms, Make.com, Google Sheets  | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.               |
+| 🧬 **Threat Detection System**                                                          | CNN, YOLOv11, EfficientNetv2           | Final-year project for real-time human detection and threat assessment using advanced CNN architectures.                         |
+
+</div>
 
 ---
 
@@ -85,6 +153,7 @@ journey
         🚀 Threat Detection System: Advanced
         🔗 Tech Content Plans Incoming: Content Creator
 ```
+
 ---
 
 ## 💡 What I'm Up To
@@ -132,7 +201,6 @@ Feel free to reach out or just say hi!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
 </picture>
-
 
 <div align="center">
   <h3>Thanks for stopping by ✨</h3>
