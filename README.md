@@ -1,114 +1,105 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%" style="border-radius:10px; margin-bottom:15px;" />
   
-  <!-- Animated title with glowing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A8+Hey%2C+I'm+Aryan+%F0%9F%91%8B+%E2%9C%A8;%F0%9F%92%BB+Tech+Wizard+%F0%9F%AA%84;%F0%9F%A4%96+AI+Engineer;%F0%9F%94%A5+Full-Stack+Developer" alt="Typing SVG" />
+  <!-- Animated title with monochrome theme -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Tech+Enthusiast;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" style="font-family: 'Poppins', sans-serif;" />
   
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Full-Stack+Web+Dev+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" />
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 500; margin-top:0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" style="font-family: 'Poppins', sans-serif;" />
   </h3>
-  
-  <!-- Social badges -->
-  <p>
+    <!-- Social badges with monochrome theme -->
+  <p style="font-family: 'Poppins', sans-serif; margin: 20px 0;">
     <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/aryandani_06/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://x.com/Killfall15" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://github.com/aryan-dani" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:aryaandani@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   
-  <!-- Profile views and workspace links with animations -->
+  <!-- Portfolio highlight - elevated and prominent -->
+  <div style="margin: 30px 0;">
+    <a href="https://aryan-dani.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" style="padding: 12px 24px; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 600; transform: scale(1.2);" />
+    </a>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #666; margin-top: 8px;">Check out my complete work showcase</p>
+  </div>
+  
+  <!-- Profile views with monochrome style -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-    <a href="https://aryan-dani.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+    <!-- Monochrome divider -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=2&section=header&width=100%" />
+  
+  <!-- GitHub trophies with monochrome theme -->
+  <p align="center" style="margin: 25px 0;">
+    <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" style="font-family: 'Poppins', sans-serif;" />
   </p>
   
-  <!-- Animated line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <!-- GitHub trophies with custom theme -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </p>
-  
-  <!-- Another animated line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!-- Another monochrome divider -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=2&section=header&width=100%" />
 </div>
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600;">🧰 Tech Stack</h2>
 
 <div align="center">
-  <!-- Tech stack animation container -->
+  <!-- Tech stack animation container with monochrome theme -->
   <p align="center">
     <a href="https://github.com/aryan-dani">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD7F7&center=true&width=435&lines=Frontend+%26+Backend+Developer;AI+%26+ML+Expert;Computer+Vision+Enthusiast" alt="Tech Roles Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=555555&center=true&width=435&lines=Frontend+%26+Backend+Developer;AI+%26+ML+Expert;Computer+Vision+Enthusiast" alt="Tech Roles Typing SVG" style="font-family: 'Poppins', sans-serif;" />
     </a>
   </p>
-  
-  <!-- Languages section with animated badges -->
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <!-- Languages section with monochrome badges -->
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">💻 Programming Languages</h3>
+  <p style="font-family: 'Poppins', sans-serif;">
+    <img src="https://img.shields.io/badge/c++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/typescript-555555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </p>
 
-  <!-- Frontend section with animated icons -->
-  <h3>🌐 Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <!-- Frontend section with monochrome icons -->
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🌐 Frontend Development</h3>
+  <p style="font-family: 'Poppins', sans-serif;">
+    <img src="https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-555555?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/SASS-333333?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/react-555555?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  </p>
+  <!-- AI/ML section with monochrome badges -->
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🧠 AI / Machine Learning</h3>
+  <p style="font-family: 'Poppins', sans-serif;">
+    <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-555555?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Keras-555555?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </p>
 
-  <!-- AI/ML section with custom badges -->
-  <h3>🧠 AI / Machine Learning</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </p>
-
-  <!-- Tools section with animated badges -->
-  <h3>⚙️ Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- Tools section with monochrome badges -->
+  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">⚙️ Tools & Platforms</h3>
+  <p style="font-family: 'Poppins', sans-serif;">
+    <img src="https://img.shields.io/badge/VS_Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </p>
   
-  <!-- Animated Skill Progress Bars -->
-  <h3>💪 Skill Proficiency</h3>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aryan-dani/aryan-dani/raw/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/aryan-dani/aryan-dani/raw/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://github.com/aryan-dani/aryan-dani/raw/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
-</div>
 
 ---
 
@@ -226,15 +217,14 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=A77BCA&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%93%85+My+Tech+Journey" alt="My Tech Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=555555&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%93%85+My+Tech+Journey" alt="My Tech Journey" style="font-family: 'Poppins', sans-serif;" />
 </h2>
 
-<div align="center">
-  <!-- Timeline with animated elements -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-
-  <img src="https://github-readme-timeline.garretcharp.vercel.app/timeline?username=aryan-dani&theme=dark&height=200">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
+  <!-- Monochrome divider -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=1&section=header&width=100%" style="margin-bottom:15px;" />
   
+  <!-- Mermaid Journey Chart -->
   ```mermaid
   journey
       title Aryan's Learning Path
@@ -250,90 +240,101 @@
           🔗 Tech Content Plans Incoming: Content Creator
   ```
   
-  <!-- Animated growth chart -->
-  <table>
-    <tr>
-      <td><h3>🌱 2023</h3></td>
-      <td><h3>🌿 2024</h3></td>
-      <td><h3>🌳 2025</h3></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://progress-bar.dev/35/?title=Skills&width=120&color=babaca" alt="Skills in 2023">
-      </td>
-      <td>
-        <img src="https://progress-bar.dev/65/?title=Skills&width=120&color=6ad7f7" alt="Skills in 2024">
-      </td>
-      <td>
-        <img src="https://progress-bar.dev/85/?title=Skills&width=120&color=38b000" alt="Skills in 2025">
-      </td>
-    </tr>
-  </table>
+  <!-- Growth chart with monochrome aesthetic -->
+  <div style="margin-top:20px; margin-bottom:20px;">
+    <table style="width:90%; margin:0 auto; border-collapse:separate; border-spacing:5px;">
+      <tr>
+        <td align="center" width="33%"><h3 style="font-family: 'Poppins', sans-serif; font-weight:600; margin:8px 0;">🌱 2023</h3></td>
+        <td align="center" width="33%"><h3 style="font-family: 'Poppins', sans-serif; font-weight:600; margin:8px 0;">🌿 2024</h3></td>
+        <td align="center" width="33%"><h3 style="font-family: 'Poppins', sans-serif; font-weight:600; margin:8px 0;">🌳 2025</h3></td>
+      </tr>
+      <tr>
+        <td align="center">
+          <div style="background:#f0f0f0; border-radius:10px; padding:4px; width:90%; margin:0 auto;">
+            <div style="background:#333333; height:10px; width:35%; border-radius:10px;"></div>
+          </div>
+          <p style="font-family:'Poppins',sans-serif; font-size:12px; margin:5px 0;">Skills: 35%</p>
+        </td>
+        <td align="center">
+          <div style="background:#f0f0f0; border-radius:10px; padding:4px; width:90%; margin:0 auto;">
+            <div style="background:#333333; height:10px; width:65%; border-radius:10px;"></div>
+          </div>
+          <p style="font-family:'Poppins',sans-serif; font-size:12px; margin:5px 0;">Skills: 65%</p>
+        </td>
+        <td align="center">
+          <div style="background:#f0f0f0; border-radius:10px; padding:4px; width:90%; margin:0 auto;">
+            <div style="background:#333333; height:10px; width:85%; border-radius:10px;"></div>
+          </div>
+          <p style="font-family:'Poppins',sans-serif; font-size:12px; margin:5px 0;">Skills: 85%</p>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF9B54&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%92%A1+Current+Focus" alt="What I'm Up To" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=555555&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%92%A1+Current+Focus" alt="What I'm Up To" style="font-family: 'Poppins', sans-serif;" />
 </h2>
 
-<div align="center">
-  <!-- Animated cards for current activities -->
-  <table>
+<div align="center" style="font-family: 'Poppins', sans-serif;">
+  <!-- Monochrome cards for current activities -->
+  <table style="margin:0 auto;">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow">
-        <h3>🔥 AI Research & Development</h3>
-        <p>Currently building real-time threat detection using YOLOv11 with advanced computer vision techniques and deep learning models</p>
+      <td width="50%" align="center" style="padding:15px; border:1px solid #eaeaea;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow" style="filter: grayscale(100%);">
+        <h3 style="font-family: 'Poppins', sans-serif; margin:10px 0;">🔥 AI Research & Development</h3>
+        <p style="font-family: 'Poppins', sans-serif; color:#555; font-size:14px;">Currently building real-time threat detection using YOLOv11 with advanced computer vision techniques and deep learning models</p>
       </td>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="PyTorch">
-        <h3>🧠 Deep Learning Exploration</h3>
-        <p>Mastering PyTorch & TensorFlow frameworks to build and deploy scalable machine learning solutions</p>
+      <td width="50%" align="center" style="padding:15px; border:1px solid #eaeaea;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="PyTorch" style="filter: grayscale(100%);">
+        <h3 style="font-family: 'Poppins', sans-serif; margin:10px 0;">🧠 Deep Learning Exploration</h3>
+        <p style="font-family: 'Poppins', sans-serif; color:#555; font-size:14px;">Mastering PyTorch & TensorFlow frameworks to build and deploy scalable machine learning solutions</p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="36" height="36" alt="React">
-        <h3>📈 Full-Stack Growth</h3>
-        <p>Leveling up my web development skills with Angular and React for building dynamic, responsive applications</p>
+      <td width="50%" align="center" style="padding:15px; border:1px solid #eaeaea;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="36" height="36" alt="React" style="filter: grayscale(100%);">
+        <h3 style="font-family: 'Poppins', sans-serif; margin:10px 0;">📈 Full-Stack Growth</h3>
+        <p style="font-family: 'Poppins', sans-serif; color:#555; font-size:14px;">Leveling up my web development skills with Angular and React for building dynamic, responsive applications</p>
       </td>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Youtube.svg" width="36" height="36" alt="YouTube">
-        <h3>💬 Content Creation</h3>
-        <p>Planning to launch tech tutorials and AI content through YouTube and Instagram channels soon!</p>
+      <td width="50%" align="center" style="padding:15px; border:1px solid #eaeaea;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Youtube.svg" width="36" height="36" alt="YouTube" style="filter: grayscale(100%);">
+        <h3 style="font-family: 'Poppins', sans-serif; margin:10px 0;">💬 Content Creation</h3>
+        <p style="font-family: 'Poppins', sans-serif; color:#555; font-size:14px;">Planning to launch tech tutorials and AI content through YouTube and Instagram channels soon!</p>
       </td>
     </tr>
   </table>
   
-  <!-- Current status indicators -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white">
+  <!-- Monochrome status indicator -->
+  <p align="center" style="margin:20px 0;">
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
   </p>
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%93%AB+Let's+Connect" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=444444&center=true&vCenter=true&random=false&width=500&height=60&lines=%F0%9F%93%AB+Let's+Connect" alt="Let's Connect" style="font-family: 'Poppins', sans-serif;" />
 </h2>
 
 <div align="center">
-  <!-- Animated connection section -->
-  <p>I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
+  <!-- Monochrome connection section -->
+  <p style="font-family: 'Poppins', sans-serif; color:#555; margin-bottom:20px;">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
   
-  <p align="center">
+  <p align="center" style="margin:25px 0;">
     <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/aryandani_06/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://x.com/Killfall15" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="mailto:aryaandani@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
   
