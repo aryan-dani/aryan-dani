@@ -173,22 +173,28 @@ journey
 
 ---
 
-## 💡 What I'm Up To
+## <span style="font-family: 'Poppins', sans-serif;">💡 What I'm Up To</span>
 
-- 🔥 Currently building real-time threat detection using YOLOv11.
-- 🧠 Learning deep learning and getting comfy with PyTorch & TensorFlow.
-- 📈 Leveling up my full-stack dev game with Angular and React.
-- 💬 Planning to start tech content—YouTube/Instagram incoming soon!
+<div align="center">
+  <table>
+    <tr><td align="center">🔥</td><td>Currently building real-time threat detection using YOLOv11</td></tr>
+    <tr><td align="center">🧠</td><td>Learning deep learning and getting comfy with PyTorch & TensorFlow</td></tr>
+    <tr><td align="center">📈</td><td>Leveling up my full-stack dev game with Angular and React</td></tr>
+    <tr><td align="center">💬</td><td>Planning to start tech content—YouTube/Instagram incoming soon!</td></tr>
+  </table>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## <span style="font-family: 'Poppins', sans-serif;">📫 Let's Connect</span>
 
-Feel free to reach out or just say hi!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanDani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-dani)
-[![Instagram](https://img.shields.io/badge/Instagram-%40techwitharyan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techwitharyan)
-[![Email](https://img.shields.io/badge/Email-aryaandani%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryaandani@gmail.com)
+<div align="center">
+  <p>Feel free to reach out or just say hi!</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-AryanDani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-dani)
+  [![Instagram](https://img.shields.io/badge/Instagram-%40techwitharyan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techwitharyan)
+  [![Email](https://img.shields.io/badge/Email-aryaandani%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryaandani@gmail.com)
+</div>
 
 ---
 
