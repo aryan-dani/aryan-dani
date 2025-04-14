@@ -8,31 +8,13 @@
        style="border-radius:10px; margin-bottom:15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" />
 
   <!-- ... existing animated title ... -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Tech+Enthusiast;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan" alt="Typing SVG" />
 
   <!-- ... existing subtitle ... -->
   <h3 style="font-weight: 500; margin-top:0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" />
   </h3>
 
-  <!-- Social badges container -->
-  <div style="margin: 20px 0; padding: 10px; background: #1c1c1c; border-radius: 8px; display: inline-block;">
-    <a href="https://www.linkedin.com/in/aryandani/" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/aryandani_06/" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://x.com/Killfall15" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://github.com/aryan-dani" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:aryaandani@gmail.com" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
 
   <!-- Portfolio highlight -->
   <div style="margin: 20px 0;">
@@ -43,7 +25,7 @@
 
   <!-- Profile views -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=4c1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=aryan-dani"alt="Profile Views" />
   </p>
 
   <!-- Divider -->
@@ -66,9 +48,10 @@
     🧰 Tech Stack
   </h2>
   <div align="center">
-    <h3 style="font-weight: 600; color: #8b949e;">Frontend & Backend Development | AI & ML Engineering | Computer Vision</h3>
+    <h3 style="font-weight: 600; color: #8b949e;">Frontend & Backend Development | AI & ML Engineering | Computer Vision
+    </h3>
 
-    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">💻 Programming Languages</h4>
+   <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">💻 Programming Languages</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
       <img src="https://skillicons.dev/icons?i=python" alt="Python" />
@@ -76,7 +59,7 @@
       <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     </p>
 
-    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🌐 Frontend Development</h4>
+  <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🌐 Frontend Development</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
       <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
@@ -86,7 +69,7 @@
       <img src="https://skillicons.dev/icons?i=react" alt="React" />
     </p>
 
-    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🧠 AI / Machine Learning</h4>
+  <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🧠 AI / Machine Learning</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
       <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
@@ -95,7 +78,7 @@
       <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
     </p>
 
-    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">⚙️ Tools & Platforms</h4>
+  <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">⚙️ Tools & Platforms</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
       <img src="https://skillicons.dev/icons?i=git" alt="Git" />
