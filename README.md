@@ -1,172 +1,179 @@
-<div align="center" style="margin-bottom: 30px;">
+<!-- @format -->
+
+<div align="center" style="margin-bottom: 30px; font-family: 'Poppins', sans-serif;">
+  <!-- ... existing banner ... -->
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg"
        alt="Aryan Dani Banner"
        width="100%"
        style="border-radius:10px; margin-bottom:15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" />
-  
-  <!-- Animated title with monochrome theme -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Tech+Enthusiast;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" style="font-family: 'Poppins', sans-serif;" />
-  
-  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 500; margin-top:0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" style="font-family: 'Poppins', sans-serif;" />
+
+  <!-- ... existing animated title ... -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Tech+Enthusiast;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+
+  <!-- ... existing subtitle ... -->
+  <h3 style="font-weight: 500; margin-top:0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" />
   </h3>
-  
-  <!-- Social badges with consistent monochrome theme -->
-  <p style="font-family: 'Poppins', sans-serif; margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <!-- Social badges container -->
+  <div style="margin: 20px 0; padding: 10px; background: #1c1c1c; border-radius: 8px; display: inline-block;">
+    <a href="https://www.linkedin.com/in/aryandani/" target="_blank" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/aryandani_06/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://www.instagram.com/aryandani_06/" target="_blank" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://x.com/Killfall15" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/Killfall15" target="_blank" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://github.com/aryan-dani" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/aryan-dani" target="_blank" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:aryaandani@gmail.com">
-      <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:aryaandani@gmail.com" style="margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-  </p>
-  
-  <!-- Portfolio highlight with consistent styling -->
+  </div>
+
+  <!-- Portfolio highlight -->
   <div style="margin: 20px 0;">
     <a href="https://aryan-dani.github.io/Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" style="padding: 12px 24px; font-size: 16px; transform: scale(1.2);" />
+      <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-5865F2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" style="padding: 10px 20px; font-size: 14px; transform: scale(1.1);" />
     </a>
-    <p style="font-size: 14px; color: #666; margin-top: 8px;">
   </div>
-  
-  <!-- Profile views with monochrome style -->
-  <p style="font-family: 'Poppins', sans-serif;">
-    <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <!-- Profile views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=aryan-dani&color=4c1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
-  
-  <!-- Monochrome divider -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=2&section=header&width=100%" />
-  
-  <!-- GitHub trophies with monochrome theme -->
+
+  <!-- Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=2&section=header&width=100%" />
+
+  <!-- GitHub trophies -->
   <p align="center" style="margin: 25px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
   </p>
-  
-  <!-- Another monochrome divider -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=2&section=header&width=100%" />
+
+  <!-- Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=2&section=header&width=100%" />
 </div>
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; margin-bottom: 30px;">
-  🧰 Tech Stack
-</h2>
+<!-- Section Wrapper: Tech Stack -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px;">
+  <h2 align="center" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9;">
+    🧰 Tech Stack
+  </h2>
+  <div align="center">
+    <h3 style="font-weight: 600; color: #8b949e;">Frontend & Backend Development | AI & ML Engineering | Computer Vision</h3>
 
-<div align="center">
-  <!-- Single concise description without typing animation -->
-  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600;">Frontend & Backend Development | AI & ML Engineering | Computer Vision</h3>
-  
-  <!-- Languages section with consistent monochrome badges -->
-  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">💻 Programming Languages</h4>
-  <p style="font-family: 'Poppins', sans-serif;">
-    <img src="https://img.shields.io/badge/c++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typescript-555555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
+    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">💻 Programming Languages</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    </p>
 
-  <!-- Frontend section with monochrome icons -->
-  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🌐 Frontend Development</h4>
-  <p>
-    <img src="https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-555555?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SASS-333333?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-    <img src="https://img.shields.io/badge/bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/react-555555?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  </p>
-  
-  <!-- AI/ML section with monochrome badges -->
-  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">🧠 AI / Machine Learning</h4>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-555555?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Keras-555555?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </p>
+    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🌐 Frontend Development</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=sass" alt="SASS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    </p>
 
-  <!-- Tools section with monochrome badges -->
-  <h4 style="font-family: 'Poppins', sans-serif; font-weight: 600;">⚙️ Tools & Platforms</h4>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </p>
+    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">🧠 AI / Machine Learning</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+      <img src="https://skillicons.dev/icons?i=keras" alt="Keras" />
+      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+    </p>
+
+    <h4 style="font-weight: 600; color: #c9d1d9; margin-top: 20px;">⚙️ Tools & Platforms</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    </p>
+
+  </div>
 </div>
 
-## 🚀 Featured Projects
-
-<div style="font-family: 'Poppins', sans-serif; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px; padding: 24px; border-radius:10px;">
+<!-- Section Wrapper: Featured Projects -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px;">
+  <h2 align="center" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9;">
+    🚀 Featured Projects
+  </h2>
   <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td width="50%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
+      <!-- Project Card 1 -->
+      <td width="50%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
         <h3 align="center">🔫 Threat Detection YOLO v11</h3>
         <div align="center" style="margin: 15px 0;">
-          <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/OpenCV-555555?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
-          <img src="https://img.shields.io/badge/YOLO-333333?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
+          <img src="https://skillicons.dev/icons?i=python" alt="Python">
+          <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV">
+          <img src="https://img.shields.io/badge/YOLO-8A2BE2?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
         </div>
-        <p>Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</p>
+        <p style="color: #8b949e;">Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</p>
         <div align="center" style="margin-top: 15px;">
           <a href="https://github.com/aryan-dani/threat-detection-yolo" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
           </a>
         </div>
       </td>
-      <td width="50%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
+      <!-- Project Card 2 -->
+      <td width="50%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
         <h3 align="center">💼 Portfolio Website</h3>
         <div align="center" style="margin: 15px 0;">
-          <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-          <img src="https://img.shields.io/badge/Angular-555555?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML5">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS3">
+          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+          <img src="https://skillicons.dev/icons?i=angular" alt="Angular">
         </div>
-        <p>A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</p>
+        <p style="color: #8b949e;">A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</p>
         <div align="center" style="margin-top: 15px;">
           <a href="https://aryan-dani.github.io/Portfolio" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
           </a>
         </div>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
+      <!-- Project Card 3 -->
+      <td width="50%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
         <h3 align="center">📊 Expense Tracker</h3>
         <div align="center" style="margin: 15px 0;">
-          <img src="https://img.shields.io/badge/Google_Forms-333333?style=for-the-badge&logo=google&logoColor=white" alt="Google Forms">
-          <img src="https://img.shields.io/badge/Make.com-555555?style=for-the-badge&logo=make&logoColor=white" alt="Make.com">
-          <img src="https://img.shields.io/badge/Google_Sheets-333333?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
+          <img src="https://img.shields.io/badge/Google_Forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" alt="Google Forms">
+          <img src="https://img.shields.io/badge/Make.com-6F42C1?style=for-the-badge&logo=make&logoColor=white" alt="Make.com">
+          <img src="https://skillicons.dev/icons?i=gsheets" alt="Google Sheets">
         </div>
-        <p>Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</p>
+        <p style="color: #8b949e;">Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</p>
         <div align="center" style="margin-top: 15px;">
           <a href="https://github.com/aryan-dani/expense-tracker" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
           </a>
         </div>
       </td>
-      <td width="50%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
+      <!-- Project Card 4 -->
+      <td width="50%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
         <h3 align="center">🧬 Threat Detection System</h3>
         <div align="center" style="margin: 15px 0;">
-          <img src="https://img.shields.io/badge/CNN-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN">
-          <img src="https://img.shields.io/badge/YOLOv11-555555?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv11">
-          <img src="https://img.shields.io/badge/EfficientNetv2-333333?style=for-the-badge&logo=google&logoColor=white" alt="EfficientNetv2">
+          <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN">
+          <img src="https://img.shields.io/badge/YOLOv11-8A2BE2?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv11">
+          <img src="https://img.shields.io/badge/EfficientNetv2-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="EfficientNetv2">
         </div>
-        <p>Final-year project for real-time human detection and threat assessment using advanced CNN architectures.</p>
+        <p style="color: #8b949e;">Final-year project for real-time human detection and threat assessment using advanced CNN architectures.</p>
         <div align="center" style="margin-top: 15px;">
           <a href="#" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Coming_Soon-000000?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon">
+            <img src="https://img.shields.io/badge/Coming_Soon-6c757d?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon">
           </a>
         </div>
       </td>
@@ -174,54 +181,60 @@
   </table>
 </div>
 
-## 🧪 Certifications & Learning
-
-<div style="font-family: 'Poppins', sans-serif;">
+<!-- Section Wrapper: Certifications & Learning -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px;">
+  <h2 align="center" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9;">
+    🧪 Certifications & Learning
+  </h2>
   <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center" width="48%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
-        <img src="https://img.shields.io/badge/IBM-333333?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
-        <h3>IBM Data Science Professional Certificate</h3>
-        <hr style="border-color: #000; margin: 15px 0;">
-        <p>Mastered data analysis, visualization, and machine learning with Python</p>
+      <!-- Certification Card 1 -->
+      <td align="center" width="48%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
+        <img src="https://skillicons.dev/icons?i=ibm" alt="IBM" height="40"/>
+        <h3 style="margin-top: 10px; margin-bottom: 10px;">IBM Data Science Professional Certificate</h3>
+        <hr style="border-color: #30363d; margin: 15px 0;">
+        <p style="color: #8b949e;">Mastered data analysis, visualization, and machine learning with Python</p>
         <div style="margin-top: 15px;">
           <a href="https://example.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Certificate-333333?style=for-the-badge&logo=certificat&logoColor=white" alt="View Certificate" />
+            <img src="https://img.shields.io/badge/View_Certificate-007ACC?style=flat-square&logo=coursera&logoColor=white" alt="View Certificate" />
           </a>
         </div>
       </td>
-      <td align="center" width="48%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
-        <img src="https://img.shields.io/badge/Udemy-555555?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-        <h3>Full-Stack Web Dev by Colt Steele</h3>
-        <hr style="border-color: #000; margin: 15px 0;">
-        <p>Built MERN stack applications from scratch</p>
+      <!-- Certification Card 2 -->
+      <td align="center" width="48%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
+        <img src="https://skillicons.dev/icons?i=udemy" alt="Udemy" height="40"/>
+        <h3 style="margin-top: 10px; margin-bottom: 10px;">Full-Stack Web Dev by Colt Steele</h3>
+        <hr style="border-color: #30363d; margin: 15px 0;">
+        <p style="color: #8b949e;">Built MERN stack applications from scratch</p>
         <div style="margin-top: 15px;">
           <a href="https://example.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Certificate-555555?style=for-the-badge&logo=certificat&logoColor=white" alt="View Certificate" />
+            <img src="https://img.shields.io/badge/View_Certificate-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="View Certificate" />
           </a>
         </div>
       </td>
     </tr>
     <tr>
-      <td align="center" width="48%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
-        <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        <h3>Angular Course by Maximilian</h3>
-        <hr style="border-color: #000; margin: 15px 0;">
-        <p>Developed scalable SPAs with Angular</p>
+      <!-- Certification Card 3 -->
+      <td align="center" width="48%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40"/>
+        <h3 style="margin-top: 10px; margin-bottom: 10px;">Angular Course by Maximilian</h3>
+        <hr style="border-color: #30363d; margin: 15px 0;">
+        <p style="color: #8b949e;">Developed scalable SPAs with Angular</p>
         <div style="margin-top: 15px;">
           <a href="https://example.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Certificate-333333?style=for-the-badge&logo=certificat&logoColor=white" alt="View Certificate" />
+            <img src="https://img.shields.io/badge/View_Certificate-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="View Certificate" />
           </a>
         </div>
       </td>
-      <td align="center" width="48%" style="background: #f8f8f8; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
-        <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <h3>Data Visualization, Python for Everybody</h3>
-        <hr style="border-color: #000; margin: 15px 0;">
-        <p>Enhanced skills in data storytelling and Python programming</p>
+      <!-- Certification Card 4 -->
+      <td align="center" width="48%" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; color: #c9d1d9;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
+        <h3 style="margin-top: 10px; margin-bottom: 10px;">Data Visualization, Python for Everybody</h3>
+        <hr style="border-color: #30363d; margin: 15px 0;">
+        <p style="color: #8b949e;">Enhanced skills in data storytelling and Python programming</p>
         <div style="margin-top: 15px;">
           <a href="https://example.com" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View_Certificate-555555?style=for-the-badge&logo=certificat&logoColor=white" alt="View Certificate" />
+            <img src="https://img.shields.io/badge/View_Certificate-007ACC?style=flat-square&logo=coursera&logoColor=white" alt="View Certificate" />
           </a>
         </div>
       </td>
@@ -229,40 +242,43 @@
   </table>
 </div>
 
-## 📅 My Tech Journey
-
-<!-- Improved Tech Journey Section -->
-<div style="font-family: 'Poppins', sans-serif;">
+<!-- Section Wrapper: My Tech Journey -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
+  <h2 align="center" style="font-weight: 600; margin-bottom: 25px;">
+    📅 My Tech Journey
+  </h2>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=1&section=header&width=100%" style="margin-bottom:15px;" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=1&section=header&width=100%" style="margin-bottom:15px;" />
   </div>
-  
-  <!-- Timeline format instead of mermaid chart -->
-  <table>
+
+  <!-- Timeline -->
+  <table style="width: 100%; color: #c9d1d9;">
     <tr>
-      <td width="15%" align="right"><b>2023 🌱</b></td>
-      <td width="85%">
-        <ul>
+      <td width="15%" align="right" style="vertical-align: top; padding-right: 10px;"><b>2023 🌱</b></td>
+      <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
+        <ul style="margin: 0; padding-left: 20px; color: #8b949e;">
           <li>Learned Python basics and fundamentals of programming</li>
           <li>Built my first HTML page and ventured into web development</li>
           <li>Experimented with small coding projects to build a foundation</li>
         </ul>
       </td>
     </tr>
+     <tr><td colspan="2" style="height: 15px;"></td></tr> <!-- Spacer -->
     <tr>
-      <td width="15%" align="right"><b>2024 🌿</b></td>
-      <td width="85%">
-        <ul>
+      <td width="15%" align="right" style="vertical-align: top; padding-right: 10px;"><b>2024 🌿</b></td>
+      <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
+        <ul style="margin: 0; padding-left: 20px; color: #8b949e;">
           <li>Completed an intensive Full-Stack Development Bootcamp</li>
           <li>Secured internship at Artem Health Tech, gaining real-world industry experience</li>
           <li>Developed multiple data science projects using Python and ML frameworks</li>
         </ul>
       </td>
     </tr>
+     <tr><td colspan="2" style="height: 15px;"></td></tr> <!-- Spacer -->
     <tr>
-      <td width="15%" align="right"><b>2025 🌳</b></td>
-      <td width="85%">
-        <ul>
+      <td width="15%" align="right" style="vertical-align: top; padding-right: 10px;"><b>2025 🌳</b></td>
+      <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
+        <ul style="margin: 0; padding-left: 20px; color: #8b949e;">
           <li>Building advanced Threat Detection System using YOLOv11 and CNN architectures</li>
           <li>Planning to launch tech content creation channels focused on AI & web development</li>
           <li>Exploring opportunities to contribute to open-source AI communities</li>
@@ -270,145 +286,164 @@
       </td>
     </tr>
   </table>
-  
-  <!-- Skill Progress Bars -->
-  <div style="margin-top:25px; margin-bottom:25px;">
+
+  <!-- Skill Progress Bars (Dark Theme Adjusted) -->
+  <div style="margin-top:30px; margin-bottom:15px;">
+     <h4 align="center" style="font-weight: 600; color: #c9d1d9; margin-bottom: 15px;">Skill Growth Over Time</h4>
     <table style="width:100%;">
       <tr>
-        <td width="15%" align="right"><b>2023</b></td>
+        <td width="15%" align="right" style="padding-right: 10px;"><b>2023</b></td>
         <td width="85%">
-          <div style="background:#f0f0f0; border-radius:10px; padding:4px; margin:5px 0;">
-            <div style="background:#333333; height:10px; width:35%; border-radius:10px;"></div>
+          <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
+            <div style="background:#58a6ff; height:8px; width:35%; border-radius:10px;"></div>
           </div>
-          <p style="font-size:12px; margin:0 0 15px 0; color:#555;">Skills: 35%</p>
+          <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e;">Est. Skills: 35%</p>
         </td>
       </tr>
       <tr>
-        <td width="15%" align="right"><b>2024</b></td>
+        <td width="15%" align="right" style="padding-right: 10px;"><b>2024</b></td>
         <td width="85%">
-          <div style="background:#f0f0f0; border-radius:10px; padding:4px; margin:5px 0;">
-            <div style="background:#333333; height:10px; width:65%; border-radius:10px;"></div>
+          <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
+            <div style="background:#58a6ff; height:8px; width:65%; border-radius:10px;"></div>
           </div>
-          <p style="font-size:12px; margin:0 0 15px 0; color:#555;">Skills: 65%</p>
+          <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e;">Est. Skills: 65%</p>
         </td>
       </tr>
       <tr>
-        <td width="15%" align="right"><b>2025</b></td>
+        <td width="15%" align="right" style="padding-right: 10px;"><b>2025</b></td>
         <td width="85%">
-          <div style="background:#f0f0f0; border-radius:10px; padding:4px; margin:5px 0;">
-            <div style="background:#333333; height:10px; width:85%; border-radius:10px;"></div>
+          <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
+            <div style="background:#58a6ff; height:8px; width:85%; border-radius:10px;"></div>
           </div>
-          <p style="font-size:12px; margin:0; color:#555;">Skills: 85%</p>
+          <p style="font-size:12px; margin:0; color:#8b949e;">Est. Skills: 85%</p>
         </td>
       </tr>
     </table>
   </div>
 </div>
 
-## 💡 Current Focus
-
-<div style="font-family: 'Poppins', sans-serif;">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-    <div style="padding:20px; border:1px solid #ddd; border-radius:10px; background:#f8f8f8;">
+<!-- Section Wrapper: Current Focus -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
+ <h2 align="center" style="font-weight: 600; margin-bottom: 25px;">
+    💡 Current Focus
+  </h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+    <!-- Focus Card 1 -->
+    <div style="padding:20px; border:1px solid #30363d; border-radius:10px; background:#0d1117;">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="48" height="48" alt="TensorFlow" style="filter: grayscale(100%);">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow">
       </div>
-      <h3 align="center">🔥 AI Research & Development</h3>
-      <p>Currently building real-time threat detection using YOLOv11 with advanced computer vision techniques and deep learning models</p>
+      <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">🔥 AI Research & Development</h3>
+      <p style="color: #8b949e;">Currently building real-time threat detection using YOLOv11 with advanced computer vision techniques and deep learning models</p>
     </div>
-    <div style="padding:20px; border:1px solid #ddd; border-radius:10px; background:#f8f8f8;">
+    <!-- Focus Card 2 -->
+    <div style="padding:20px; border:1px solid #30363d; border-radius:10px; background:#0d1117;">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="48" height="48" alt="PyTorch" style="filter: grayscale(100%);">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch">
       </div>
-      <h3 align="center">🧠 Deep Learning Exploration</h3>
-      <p>Mastering PyTorch & TensorFlow frameworks to build and deploy scalable machine learning solutions</p>
+      <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">🧠 Deep Learning Exploration</h3>
+      <p style="color: #8b949e;">Mastering PyTorch & TensorFlow frameworks to build and deploy scalable machine learning solutions</p>
     </div>
-    <div style="padding:20px; border:1px solid #ddd; border-radius:10px; background:#f8f8f8;">
+    <!-- Focus Card 3 -->
+    <div style="padding:20px; border:1px solid #30363d; border-radius:10px; background:#0d1117;">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" style="filter: grayscale(100%);">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React">
       </div>
-      <h3 align="center">📈 Full-Stack Growth</h3>
-      <p>Leveling up my web development skills with Angular and React for building dynamic, responsive applications</p>
+      <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">📈 Full-Stack Growth</h3>
+      <p style="color: #8b949e;">Leveling up my web development skills with Angular and React for building dynamic, responsive applications</p>
     </div>
-    <div style="padding:20px; border:1px solid #ddd; border-radius:10px; background:#f8f8f8;">
+    <!-- Focus Card 4 -->
+    <div style="padding:20px; border:1px solid #30363d; border-radius:10px; background:#0d1117;">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Youtube.svg" width="48" height="48" alt="YouTube" style="filter: grayscale(100%);">
+        <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube">
       </div>
-      <h3 align="center">💬 Content Creation</h3>
-      <p>Planning to launch tech tutorials and AI content through YouTube and Instagram channels soon!</p>
+      <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">💬 Content Creation</h3>
+      <p style="color: #8b949e;">Planning to launch tech tutorials and AI content through YouTube and Instagram channels soon!</p>
     </div>
   </div>
-  
-  <!-- Monochrome status indicator -->
+
+  <!-- Status indicator -->
   <p align="center" style="margin:30px 0;">
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-38a169?style=for-the-badge&logo=googlescholar&logoColor=white">
   </p>
 </div>
 
-## 📫 Let's Connect
+<!-- Section Wrapper: Let's Connect -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
+  <h2 align="center" style="font-weight: 600; margin-bottom: 15px;">
+    📫 Let's Connect
+  </h2>
+  <p align="center" style="color: #8b949e;">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
 
-<div style="font-family: 'Poppins', sans-serif;">
-  <p>I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
-  
   <div align="center" style="margin:25px 0;">
     <a href="https://www.linkedin.com/in/aryandani/" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/aryandani_06/" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://x.com/Killfall15" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="mailto:aryaandani@gmail.com" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
-  
+
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
   </div>
 </div>
 
-## ✨ Fun Facts About Me
-
-<div style="font-family: 'Poppins', sans-serif; padding: 15px; background: #f8f8f8; border-radius: 10px; border: 1px solid #ddd; margin: 20px 0;">
-  <ul>
-    <li>🧋 Addicted to tea, not coffee (don't @ me 😤).</li>
-    <li>🤖 Could talk about AI, tech, and gadgets for hours.</li>
-    <li>📱 I love smartphones more than most people love pizza (and that's saying something).</li>
+<!-- Section Wrapper: Fun Facts -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
+ <h2 align="center" style="font-weight: 600; margin-bottom: 15px;">
+    ✨ Fun Facts About Me
+  </h2>
+  <ul style="list-style-type: none; padding-left: 0; color: #8b949e;">
+    <li style="margin-bottom: 8px;">🧋 Addicted to tea, not coffee (don't @ me 😤).</li>
+    <li style="margin-bottom: 8px;">🤖 Could talk about AI, tech, and gadgets for hours.</li>
+    <li style="margin-bottom: 8px;">📱 I love smartphones more than most people love pizza (and that's saying something).</li>
     <li>💻 Coding with lo-fi and chai = perfect combo.</li>
   </ul>
 </div>
 
-## 📊 GitHub Stats
+<!-- Section Wrapper: GitHub Stats -->
+<div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px;">
+ <h2 align="center" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9;">
+    📊 GitHub Stats
+  </h2>
+  <div align="center">
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=58A6FF&fire=F08C38&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d;" />
 
-<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 40px;">
-  <!-- Improved stats layout with borders and shadows -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=vue-dark&hide_border=false&stroke=0000&background=060A0CD0&ring=333333&fire=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=555555&sideLabels=555555" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 15px;" />
-  
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=vue-dark&hide_border=false&border_color=333333&bg_color=060A0CD0&title_color=555555&text_color=FFFFFF" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=vue-dark&hide_border=false&border_color=333333&bg_color=060A0CD0&title_color=555555&text_color=FFFFFF&icon_color=555555" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <!-- Top Langs & General Stats -->
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
+    </div>
+
+    <!-- Activity Graph -->
+    <a href="https://github.com/aryan-dani/github-readme-activity-graph" style="display: block; margin-top: 20px;">
+      <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
+    </a>
+
   </div>
-  
-  <!-- Activity graph with monochrome theme -->
-  <a href="https://github.com/aryan-dani/github-readme-activity-graph">
-    <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=060A0CD0&color=FFFFFF&line=333333&point=555555&hide_border=false&area=true" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;" />
-  </a>
 </div>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
-</picture>
+<div align="center" style="margin-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
+  </picture>
+</div>
 
-<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 30px;">
-  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #333;">Thanks for stopping by ✨</h3>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" />
+<!-- Footer -->
+<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 30px; color: #8b949e;">
+  <h3 style="font-weight: 600; color: #c9d1d9;">Thanks for stopping by ✨</h3>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" style="margin-top: 10px; margin-bottom: 10px;" />
   <br>
-  <em style="color: #555;">Let's build cool things together! 🚀</em>
+  <em>Let's build cool things together! 🚀</em>
 </div>
