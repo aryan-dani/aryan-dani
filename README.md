@@ -35,14 +35,14 @@
 <!-- Section Wrapper: Tech Stack -->
 <div style="font-family: 'Poppins', sans-serif; padding: 25px; margin-bottom: 30px; background-color: #161b22; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
   <h2 align="left" style="font-weight: 700; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
-    <img src="https://em-content.zobj.net/thumbs/120/apple/325/toolbox_1f9f0.png" width="28" style="margin-right: 8px; vertical-align: sub;"/>
+    <img src="https://em-content.zobj.net/thumbs/120/apple/325/toolbox_1f9f0.png" width="28" style="margin-right: 8px; vertical-align: sub; filter: grayscale(100%);"/>
     Tech Stack Breakdown
   </h2>
 
   <!-- Languages -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" width="22" style="margin-right: 8px;"/> 
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       💻 Languages
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -55,7 +55,7 @@
   <!-- Frontend -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/artist-palette_1f3a8.png" width="22" style="margin-right: 8px;"/> 
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/artist-palette_1f3a8.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       🌐 Frontend
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -68,7 +68,7 @@
   <!-- AI/ML -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="22" style="margin-right: 8px;"/> 
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       🧠 AI / ML
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -81,7 +81,7 @@
   <!-- Tools -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png" width="22" style="margin-right: 8px;"/> 
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       ⚙️ Tools & Platforms
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -92,47 +92,47 @@
     </ul>
   </div>
   
-  <!-- NEW SHIELDS.IO TECH STACK WITH BACKGROUND -->
-  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-top: 25px;">
-    <h3 align="center" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+  <!-- SHIELDS.IO TECH STACK WITH MONOCHROME THEME -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-top: 25px; width: 100%;">
+    <h3 align="left" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
       🛠️ My Tech Stack
     </h3>
-    <p align="center" style="margin-bottom: 15px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
       <!-- Programming Languages -->
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </p>
-    <p align="center" style="margin-bottom: 15px;">
+      <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
       <!-- Frontend -->
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </p>
-    <p align="center" style="margin-bottom: 15px;">
+      <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
       <!-- AI/ML -->
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    </p>
-    <p align="center" style="margin-bottom: 15px;">
+      <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
       <!-- Tools -->
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    </p>
-    <p align="center" style="margin-bottom: 0;">
+      <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
       <!-- Database -->
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    </p>
+      <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    </div>
   </div>
 </div>
 
