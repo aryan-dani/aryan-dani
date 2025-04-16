@@ -20,7 +20,6 @@
 </div>
 </kbd>
 
-
 ## 🛠️ Tech Stack Breakdown
 
 <table width="100%" align = center>
@@ -107,9 +106,6 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%" align = center>
-<tr><td>
-
 <div align="center">
 <table width="90%">
 <thead>
@@ -139,15 +135,9 @@
 </table>
 </div>
 
-</td></tr>
-</table>
-
 ---
 
 ## 🧪 Certifications
-
-<table width="100%" align = center>
-<tr><td>
 
 <div align="center">
   <table width="90%" align="center" style="border: none;">
@@ -172,9 +162,6 @@
     </tr>
   </table>
 </div>
-
-</td></tr>
-</table>
 
 ---
 
@@ -293,11 +280,8 @@ journey
 
 ## ✨ Fun Facts About Me
 
-<table width="100%" align=center>
-<tr><td>
-
 <div align="center">
-  <table width="100" align="center">
+  <table width="90%" align="center"> <!-- Adjusted width to 90% for consistency -->
     <tr>
       <td width="5%" align="right">🧋</td>
       <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
@@ -316,9 +300,6 @@ journey
     </tr>
   </table>
 </div>
-
-</td></tr>
-</table>
 
 ---
 
