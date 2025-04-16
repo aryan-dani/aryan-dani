@@ -25,78 +25,45 @@
 ## 🛠️ Tech Stack Breakdown
 
 <h3>💻 Languages</h3>
-<p>
-  <b>C/C++</b>: For systems programming and performance-critical applications<br/>
-  <b>Python</b>: Data science, AI/ML, scripting, and automation<br/>
-  <b>JavaScript/TypeScript</b>: Building interactive, scalable web applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Versatile language for web dev, data science, AI/ML." />
+  <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="High-performance language for systems programming, game dev." />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" title="Core language for web interactivity and front-end development." />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="Superset of JavaScript adding static types for large-scale applications." />
 </p>
 
 <h3>🌐 Web Development</h3>
-<p>
-  <b>HTML5, CSS3, SASS</b>: Crafting responsive, visually appealing interfaces<br/>
-  <b>Bootstrap</b>: Rapid prototyping and responsive design<br/>
-  <b>Angular & React</b>: Dynamic single-page applications (SPAs) with modern frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Standard markup language for creating web pages." />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Stylesheet language for designing web page appearance." />
+  <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Comprehensive framework for building dynamic web applications." />
+  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" title="Library for building user interfaces, particularly single-page applications." />
+  <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Front-end framework for responsive, mobile-first web design." />
 </p>
 
 <h3>🧠 AI / ML</h3>
-<p>
-  <b>TensorFlow (with Keras)</b>: Deep learning for image and text processing<br/>
-  <b>PyTorch</b>: Experimenting with neural networks and real-time AI solutions<br/>
-  <b>OpenCV</b>: Computer vision for real-time object detection
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="Open-source library for machine learning and AI." />
+  <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="Open-source machine learning framework based on Torch library." />
+  <img src="https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="High-level neural networks API, running on top of TensorFlow, Theano, or CNTK." />
+  <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Data manipulation and analysis library for Python." />
+  <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" title="Library for real-time computer vision applications." />
 </p>
 
 <h3>⚙️ Tools & Platforms</h3>
-<p>
-  <b>VS Code</b>: Primary editor with productivity-boosting extensions<br/>
-  <b>Git & GitHub</b>: Version control and collaborative development<br/>
-  <b>Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing<br/>
-  <b>AWS</b>: Scalable cloud infrastructure for applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Distributed version control system for tracking changes in source code." />
+  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="Popular, free source-code editor developed by Microsoft." />
+  <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Suite of cloud computing services offered by Google." />
+  <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="Comprehensive cloud computing platform by Amazon." />
 </p>
 
-<h3 align="center">🛠️ My Tech Stack</h3>
-
-<div align="center">
-  <!-- Programming Languages -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-
-  <!-- Frontend -->
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </p>
-
-  <!-- AI/ML -->
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </p>
-
-  <!-- Tools -->
-  <p>
-    <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </p>
-
-  <!-- Database -->
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  </p>
-</div>
+<h3>🗄️ Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="NoSQL document database known for flexibility and scalability." />
+  <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="Self-contained, serverless, transactional SQL database engine." />
+  <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" title="Platform developed by Google for creating mobile and web applications." />
+</p>
 
 ---
 
