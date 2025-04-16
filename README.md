@@ -336,21 +336,21 @@ journey
 </h2>
 <div align="center">
 <!-- GitHub Streak Stats - Monochrome with smaller width -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d; max-width: 70%;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d; max-width: 60%; height: auto;" />
 
 <!-- Smaller width stats cards with flex-wrap -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px auto; max-width: 800px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px auto; max-width: 700px;">
   <!-- More narrow cards -->
-  <div style="flex: 0 0 auto; width: 45%; min-width: 250px; max-width: 350px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+  <div style="flex: 0 0 auto; width: 40%; min-width: 200px; max-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%; height: auto;" />
   </div>
-  <div style="flex: 0 0 auto; width: 45%; min-width: 250px; max-width: 350px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+  <div style="flex: 0 0 auto; width: 40%; min-width: 200px; max-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%; height: auto;" />
   </div>
 </div>
 
 <!-- Activity Graph - Wider width -->
-<div style="margin: 20px auto 0; max-width: 900px;">
+<div style="margin: 20px auto 0; max-width: 85%;">
   <a href="https://github.com/aryan-dani/github-readme-activity-graph">
     <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
   </a>
