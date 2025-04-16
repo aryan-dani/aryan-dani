@@ -115,7 +115,7 @@
 <thead>
   <tr>
     <th width="180px" align="center">Project</th>
-    <th width="250px" align="center">Tech</th>
+    <th width="200px" align="center">Tech</th>
     <th width="350px" align="center">Description</th>
   </tr>
 </thead>
