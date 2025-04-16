@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack Breakdown
 
-<table width="100%">
+<table width="100%" align = center>
 <tr><td>
 
 <h3>💻 Languages</h3>
@@ -106,16 +106,16 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" align = center>
 <tr><td>
 
 <div align="center">
 <table width="90%">
 <thead>
   <tr>
-    <th width="40%" align="left">Project</th>
-    <th width="25%" align="left">Tech</th>
-    <th width="35%" align="left">Description</th>
+    <th width="200px" align="center">Project</th>
+    <th width="350px" align="center">Tech</th>
+    <th width="400px" align="center">Description</th>
   </tr>
 </thead>
 <tbody>
@@ -145,7 +145,7 @@
 
 ## 🧪 Certifications
 
-<table width="100%">
+<table width="100%" align = center>
 <tr><td>
 
 <div align="center">
@@ -179,7 +179,7 @@
 
 ## 📅 My Tech Journey
 
-<table width="100%">
+<table width="100%" align = center>
 <tr><td>
 
 ```mermaid
