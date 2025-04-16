@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <kbd style="display: block; width: 100%;">
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%"/>
@@ -21,9 +23,6 @@
 </kbd>
 
 ## 🛠️ Tech Stack Breakdown
-
-<table width="100%" align = center>
-<tr><td>
 
 <h3>💻 Languages</h3>
 <p>
@@ -98,9 +97,6 @@
     <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   </p>
 </div>
-
-</td></tr>
-</table>
 
 ---
 
