@@ -1,4 +1,4 @@
-<kbd style="display: block; width: 100%;">
+n<!-- Header Section -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%"/>
 
@@ -16,45 +16,46 @@
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
 </div>
-</kbd>
 
-<br/>
+---
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">🛠️ Tech Stack Breakdown</h2>
+## 🛠️ Tech Stack Breakdown
+
+<table width="100%">
+<tr><td>
+
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <b>C/C++</b>: For systems programming and performance-critical applications<br/>
+  <b>Python</b>: Data science, AI/ML, scripting, and automation<br/>
+  <b>JavaScript/TypeScript</b>: Building interactive, scalable web applications
+</p>
+
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <b>HTML5, CSS3, SASS</b>: Crafting responsive, visually appealing interfaces<br/>
+  <b>Bootstrap</b>: Rapid prototyping and responsive design<br/>
+  <b>Angular & React</b>: Dynamic single-page applications (SPAs) with modern frameworks
+</p>
+
+<h3 align="center">🧠 AI / ML</h3>
+<p align="center">
+  <b>TensorFlow (with Keras)</b>: Deep learning for image and text processing<br/>
+  <b>PyTorch</b>: Experimenting with neural networks and real-time AI solutions<br/>
+  <b>OpenCV</b>: Computer vision for real-time object detection
+</p>
+
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<p align="center">
+  <b>VS Code</b>: Primary editor with productivity-boosting extensions<br/>
+  <b>Git & GitHub</b>: Version control and collaborative development<br/>
+  <b>Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing<br/>
+  <b>AWS</b>: Scalable cloud infrastructure for applications
+</p>
+
+<h3 align="center">🛠️ My Tech Stack</h3>
 
 <div align="center">
-  <h3>💻 Languages</h3>
-  <p>
-    <b>C/C++</b>: For systems programming and performance-critical applications<br/>
-    <b>Python</b>: Data science, AI/ML, scripting, and automation<br/>
-    <b>JavaScript/TypeScript</b>: Building interactive, scalable web applications
-  </p>
-  
-  <h3>🌐 Frontend</h3>
-  <p>
-    <b>HTML5, CSS3, SASS</b>: Crafting responsive, visually appealing interfaces<br/>
-    <b>Bootstrap</b>: Rapid prototyping and responsive design<br/>
-    <b>Angular & React</b>: Dynamic single-page applications (SPAs) with modern frameworks
-  </p>
-  
-  <h3>🧠 AI / ML</h3>
-  <p>
-    <b>TensorFlow (with Keras)</b>: Deep learning for image and text processing<br/>
-    <b>PyTorch</b>: Experimenting with neural networks and real-time AI solutions<br/>
-    <b>OpenCV</b>: Computer vision for real-time object detection
-  </p>
-  
-  <h3>⚙️ Tools & Platforms</h3>
-  <p>
-    <b>VS Code</b>: Primary editor with productivity-boosting extensions<br/>
-    <b>Git & GitHub</b>: Version control and collaborative development<br/>
-    <b>Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing<br/>
-    <b>AWS</b>: Scalable cloud infrastructure for applications
-  </p>
-
-  <h3>🛠️ My Tech Stack</h3>
-
   <!-- Programming Languages -->
   <p>
     <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -96,20 +97,24 @@
     <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   </p>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">🚀 Featured Projects</h2>
+---
 
-<div style="overflow-x: auto; width: 100%;">
-<table align="center" style="width: 90%; margin: 0 auto;">
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr><td>
+
+<div align="center">
+<table width="90%">
 <thead>
   <tr>
-    <th style="width: 40%; text-align: left;">Project</th>
-    <th style="width: 25%; text-align: left;">Tech</th>
-    <th style="width: 35%; text-align: left;">Description</th>
+    <th width="40%" align="left">Project</th>
+    <th width="25%" align="left">Tech</th>
+    <th width="35%" align="left">Description</th>
   </tr>
 </thead>
 <tbody>
@@ -131,15 +136,19 @@
 </tbody>
 </table>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">🧪 Certifications</h2>
+---
+
+## 🧪 Certifications
+
+<table width="100%">
+<tr><td>
 
 <div align="center">
-  <table width="90%" align="center" style="border: none; background: none;">
+  <table width="90%" align="center" style="border: none;">
     <tr>
       <td width="48%" align="right" valign="middle">📜 <b>IBM Data Science Professional Certificate</b></td>
       <td width="52%" align="left" valign="middle">Mastered data analysis, visualization, and machine learning with Python.</td>
@@ -161,12 +170,16 @@
     </tr>
   </table>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">📅 My Tech Journey</h2>
+---
+
+## 📅 My Tech Journey
+
+<table width="100%">
+<tr><td>
 
 ```mermaid
 journey
@@ -221,40 +234,38 @@ journey
     <tr>
       <td align="right" width="60px"><b>2023</b></td>
       <td>
-        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #666666; width: 35%; height: 10px; border-radius: 5px;"></div>
-        </div>
-        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 35%</i></div>
+        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-35.png" alt="Skills: 35%" width="100%"/>
+        <i>Est. Skills: 35%</i>
       </td>
     </tr>
     <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right" width="60px"><b>2024</b></td>
       <td>
-        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #666666; width: 65%; height: 10px; border-radius: 5px;"></div>
-        </div>
-        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 65%</i></div>
+        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-65.png" alt="Skills: 65%" width="100%"/>
+        <i>Est. Skills: 65%</i>
       </td>
     </tr>
     <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right" width="60px"><b>2025</b></td>
       <td>
-        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #666666; width: 85%; height: 10px; border-radius: 5px;"></div>
-        </div>
-        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 85%</i></div>
+        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-85.png" alt="Skills: 85%" width="100%"/>
+        <i>Est. Skills: 85%</i>
       </td>
     </tr>
   </table>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">📫 Let's Connect</h2>
+---
+
+## 📫 Let's Connect
+
+<table width="100%">
+<tr><td>
 
 <p align="center">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
 
@@ -272,15 +283,19 @@ journey
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">✨ Fun Facts About Me</h2>
+---
+
+## ✨ Fun Facts About Me
+
+<table width="100%">
+<tr><td>
 
 <div align="center">
-  <table width="80%" style="border: none;">
+  <table width="80%" align="center">
     <tr>
       <td width="50%" align="right">🧋</td>
       <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
@@ -299,12 +314,16 @@ journey
     </tr>
   </table>
 </div>
-</kbd>
 
-<br/>
+</td></tr>
+</table>
 
-<kbd style="display: block; width: 100%;">
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+## 📊 GitHub Stats
+
+<table width="100%">
+<tr><td>
 
 <div align="center">
   <!-- GitHub Streak Stats - Monochrome -->
@@ -323,16 +342,20 @@ journey
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" width="90%" />
 </div>
 
-<!-- Snake Animation - Monochrome style -->
-<div align="center" style="margin-top: 20px;">
+</td></tr>
+</table>
+
+---
+
+<div align="center">
+  <!-- Snake Animation - Monochrome style -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
   </picture>
-</div>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
-</p>
-</kbd>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </p>
+</div>
