@@ -1,8 +1,8 @@
-
-<div align="center" style="margin-bottom: 30pc; font-family: 'Poppins', sans-serif;">
+<div align="center" style="margin-bottom: 30px; font-family: 'Poppins', sans-serif;">
 <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg"
     alt="Aryan Dani Banner"
-    width="100%" />
+    width="100%"
+    style="border-radius:15px; margin-bottom:15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" />
 
 <!-- ... existing animated title ... -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan" alt="Typing SVG" />
@@ -16,6 +16,49 @@
 <p style="font-family: 'Poppins', sans-serif; text-align: center;">
 <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=58a6ff"alt="Profile Views" />
 </p>
+
+<!-- NEW BEAUTIFUL SHIELDS.IO TECH STACK -->
+<div style="margin: 25px 0;">
+<h3 align="center" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+  🛠️ My Tech Stack
+</h3>
+<p align="center" style="margin-bottom: 15px;">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+<p align="center" style="margin-bottom: 15px;">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+<p align="center" style="margin-bottom: 15px;">
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+<p align="center" style="margin-bottom: 15px;">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+<p align="center" style="margin-bottom: 15px;">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+</div>
 
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=2&section=header&width=100%" />
@@ -33,42 +76,48 @@
 ---
 
 <!-- Section Wrapper: Tech Stack -->
+
 ## 🧰 Tech Stack Breakdown
 
 ### 💻 Languages
-- **C/C++**: For systems programming and performance-critical applications.  
-- **Python**: Data science, AI/ML, scripting, and automation.  
+
+- **C/C++**: For systems programming and performance-critical applications.
+- **Python**: Data science, AI/ML, scripting, and automation.
 - **JavaScript/TypeScript**: Building interactive, scalable web applications.
 
 ### 🌐 Frontend
-- **HTML5, CSS3, SASS**: Crafting responsive, visually appealing interfaces.  
-- **Bootstrap**: Rapid prototyping and responsive design.  
+
+- **HTML5, CSS3, SASS**: Crafting responsive, visually appealing interfaces.
+- **Bootstrap**: Rapid prototyping and responsive design.
 - **Angular & React**: Dynamic single-page applications (SPAs) with modern frameworks.
 
 ### 🧠 AI / ML
-- **TensorFlow (with Keras)**: Deep learning for image and text processing.  
-- **PyTorch**: Experimenting with neural networks and real-time AI solutions.  
+
+- **TensorFlow (with Keras)**: Deep learning for image and text processing.
+- **PyTorch**: Experimenting with neural networks and real-time AI solutions.
 - **OpenCV**: Computer vision for real-time object detection.
 
 ### ⚙️ Tools & Platforms
-- **VS Code**: Primary editor with productivity-boosting extensions.  
-- **Git & GitHub**: Version control and collaborative development.  
-- **Google Cloud Platform (GCP)**: Cloud services for AI and data processing.  
+
+- **VS Code**: Primary editor with productivity-boosting extensions.
+- **Git & GitHub**: Version control and collaborative development.
+- **Google Cloud Platform (GCP)**: Cloud services for AI and data processing.
 - **AWS**: Scalable cloud infrastructure for applications.
 
 ---
 
 <!-- Section Wrapper: Featured Projects -->
+
 ## 🚀 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
+| Project                                                                        | Tech                                   | Description                                                                                                                      |
+| ------------------------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 🔫 [**Threat Detection**](https://github.com/aryan-dani/threat-detection-yolo) | Python, Deep Learning, OpenCV, YOLOv11 | Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities. |
-| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio) | HTML, CSS, JS, | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design. |
-| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker) | Google Forms, Make.com, Google Sheets | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis. |
-
+| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio)             | HTML, CSS, JS,                         | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.                |
+| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker)        | Google Forms, Make.com, Google Sheets  | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.               |
 
 <!-- Section Wrapper: Certifications & Learning -->
+
 ## 🧪 Certifications
 
 - 📜 **[IBM Data Science Professional Certificate](https://example.com)**  
@@ -180,7 +229,6 @@ journey
 </div>
 </div>
 
-
 <!-- Section Wrapper: Let's Connect -->
 <div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
 <h2 align="left" style="font-weight: 600; margin-bottom: 15px; font-family: 'Poppins', sans-serif;"> <!-- Changed align to left -->
@@ -223,10 +271,10 @@ journey
 
 <!-- Section Wrapper: GitHub Stats -->
 <div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px;">
-<h2 align="left" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;"> <!-- Changed align to left -->
+<h2 align="center" style="font-weight: 600; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
 📊 GitHub Stats
 </h2>
-<div align="center"> <!-- Kept stats centered -->
+<div align="center">
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=58A6FF&fire=F08C38&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d;" />
 
@@ -236,7 +284,7 @@ journey
 </div>
 
 <a href="https://github.com/aryan-dani/github-readme-activity-graph" style="display: block; margin-top: 20px;">
-  <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
+  <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
 </a>
 
 </div>
@@ -251,13 +299,6 @@ journey
 </picture>
 </div>
 
-<!-- Footer -->
-<div align="center" style="font-family: 'Poppins', sans-serif; margin-top: 30px; color: #8b949e;"> <!-- Kept centered -->
-<h3 style="font-weight: 600; color: #c9d1d9; font-family: 'Poppins', sans-serif;">Thanks for stopping by ✨</h3>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" style="margin-top: 10px; margin-bottom: 10px;" />
-<br>
-<em style="font-family: 'Poppins', sans-serif;">Let's build cool things together! 🚀</em>
-</div>
 
 <!-- Status indicator - Centered -->
 <p align="center" style="margin:30px 0; font-family: 'Poppins', sans-serif;">
