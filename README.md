@@ -1,4 +1,4 @@
-n<!-- Header Section -->
+<kbd style="display: block; width: 100%;">
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%"/>
 
@@ -6,8 +6,10 @@ n<!-- Header Section -->
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" />
 
+<br></br>
+<kbd style="display: block; width: 100%;">
   <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=333333" alt="Profile Views" />
-
+</kbd>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
   <br/>
 
@@ -16,37 +18,36 @@ n<!-- Header Section -->
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
 </div>
-
----
+</kbd>
 
 ## 🛠️ Tech Stack Breakdown
 
 <table width="100%">
 <tr><td>
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
+<h3>💻 Languages</h3>
+<p>
   <b>C/C++</b>: For systems programming and performance-critical applications<br/>
   <b>Python</b>: Data science, AI/ML, scripting, and automation<br/>
   <b>JavaScript/TypeScript</b>: Building interactive, scalable web applications
 </p>
 
-<h3 align="center">🌐 Frontend</h3>
-<p align="center">
+<h3>🌐 Web Development</h3>
+<p>
   <b>HTML5, CSS3, SASS</b>: Crafting responsive, visually appealing interfaces<br/>
   <b>Bootstrap</b>: Rapid prototyping and responsive design<br/>
   <b>Angular & React</b>: Dynamic single-page applications (SPAs) with modern frameworks
 </p>
 
-<h3 align="center">🧠 AI / ML</h3>
-<p align="center">
+<h3>🧠 AI / ML</h3>
+<p>
   <b>TensorFlow (with Keras)</b>: Deep learning for image and text processing<br/>
   <b>PyTorch</b>: Experimenting with neural networks and real-time AI solutions<br/>
   <b>OpenCV</b>: Computer vision for real-time object detection
 </p>
 
-<h3 align="center">⚙️ Tools & Platforms</h3>
-<p align="center">
+<h3>⚙️ Tools & Platforms</h3>
+<p>
   <b>VS Code</b>: Primary editor with productivity-boosting extensions<br/>
   <b>Git & GitHub</b>: Version control and collaborative development<br/>
   <b>Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing<br/>
