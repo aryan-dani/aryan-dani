@@ -12,14 +12,14 @@
 </kbd>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
   <br/>
-<kbd style="display: block; width: 100%;">
+<kbd>
   <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false&border_radius=10" alt="Trophies" />
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
 </div>
 </kbd>
-</kbd>
+
 
 ## 🛠️ Tech Stack Breakdown
 
@@ -114,9 +114,9 @@
 <table width="90%">
 <thead>
   <tr>
-    <th width="200px" align="center">Project</th>
-    <th width="350px" align="center">Tech</th>
-    <th width="400px" align="center">Description</th>
+    <th width="180px" align="center">Project</th>
+    <th width="250px" align="center">Tech</th>
+    <th width="350px" align="center">Description</th>
   </tr>
 </thead>
 <tbody>
