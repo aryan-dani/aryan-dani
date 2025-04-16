@@ -5,19 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Aryan" alt="Typing SVG" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%E2%80%A2+Web+Developer+%E2%80%A2+Tech+Lover+%E2%80%A2+Tea+Addict+%F0%9F%8D%B5" alt="Subtitle" />
-
+</kbd>
 <br></br>
 <kbd style="display: block; width: 100%;">
   <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=333333" alt="Profile Views" />
 </kbd>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
   <br/>
-
+<kbd style="display: block; width: 100%;">
   <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=aryan-dani&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false&border_radius=10" alt="Trophies" />
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
 </div>
+</kbd>
 </kbd>
 
 ## 🛠️ Tech Stack Breakdown
@@ -265,7 +266,7 @@ journey
 
 ## 📫 Let's Connect
 
-<table width="100%">
+<table width="100%" align = center>
 <tr><td>
 
 <p align="center">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
@@ -292,7 +293,7 @@ journey
 
 ## ✨ Fun Facts About Me
 
-<table width="100%">
+<table width="100%" align=center>
 <tr><td>
 
 <div align="center">
