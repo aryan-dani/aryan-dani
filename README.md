@@ -34,7 +34,7 @@
 
 <!-- Section Wrapper: Tech Stack -->
 <div style="font-family: 'Poppins', sans-serif; padding: 25px; margin-bottom: 30px; background-color: #161b22; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-  <h2 align="left" style="font-weight: 700; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+  <h2 align="center" style="font-weight: 700; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
     <img src="https://em-content.zobj.net/thumbs/120/apple/325/toolbox_1f9f0.png" width="28" style="margin-right: 8px; vertical-align: sub; filter: grayscale(100%);"/>
     Tech Stack Breakdown
   </h2>
@@ -42,6 +42,7 @@
   <!-- Languages -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       💻 Languages
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -53,7 +54,8 @@
 
   <!-- Frontend -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
-    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;"> 
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/artist-palette_1f3a8.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       🌐 Frontend
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -66,6 +68,7 @@
   <!-- AI/ML -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       🧠 AI / ML
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -78,6 +81,7 @@
   <!-- Tools -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       ⚙️ Tools & Platforms
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -90,17 +94,17 @@
   
   <!-- SHIELDS.IO TECH STACK WITH MONOCHROME THEME -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-top: 25px; width: 100%;">
-    <h3 align="left" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+    <h3 align="center" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
       🛠️ My Tech Stack
     </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; justify-content: center;">
       <!-- Programming Languages -->
       <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; justify-content: center;">
       <!-- Frontend -->
       <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -108,7 +112,7 @@
       <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" />
       <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; justify-content: center;">
       <!-- AI/ML -->
       <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -116,14 +120,14 @@
       <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; justify-content: flex-start;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; justify-content: center;">
       <!-- Tools -->
       <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
       <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
       <!-- Database -->
       <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -187,7 +191,7 @@
 
 <!-- Section Wrapper: My Tech Journey -->
 <div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
-<h2 align="left" style="font-weight: 600; margin-bottom: 25px; font-family: 'Poppins', sans-serif;">
+<h2 align="center" style="font-weight: 600; margin-bottom: 25px; font-family: 'Poppins', sans-serif;">
 📅 My Tech Journey
 </h2>
 <div align="center">
@@ -213,6 +217,7 @@ journey
 </div>
 
 <!-- Timeline -->
+<div style="display: flex; justify-content: center; margin: 0 auto; max-width: 90%;">
 <table style="width: 100%; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
 <tr>
   <td width="15%" align="right" style="vertical-align: top; padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2023 🌱</b></td>
@@ -247,10 +252,11 @@ journey
   </td>
 </tr>
 </table>
+</div>
 
 <!-- Skill Progress Bars (Monochrome Theme) -->
-<div style="margin-top:30px; margin-bottom:15px;">
-  <h4 align="left" style="font-weight: 600; color: #c9d1d9; margin-bottom: 15px; font-family: 'Poppins', sans-serif;">Skill Growth Over Time</h4>
+<div style="margin: 30px auto 15px; max-width: 85%; text-align: center;">
+  <h4 align="center" style="font-weight: 600; color: #c9d1d9; margin-bottom: 15px; font-family: 'Poppins', sans-serif;">Skill Growth Over Time</h4>
 <table style="width:100%; font-family: 'Poppins', sans-serif;">
   <tr>
     <td width="15%" align="right" style="padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2023</b></td>
@@ -329,24 +335,26 @@ journey
 📊 GitHub Stats
 </h2>
 <div align="center">
-<!-- GitHub Streak Stats - Monochrome -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d; max-width: 80%;" />
+<!-- GitHub Streak Stats - Monochrome with smaller width -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d; max-width: 70%;" />
 
 <!-- Smaller width stats cards with flex-wrap -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px; max-width: 900px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px auto; max-width: 800px;">
   <!-- More narrow cards -->
-  <div style="flex: 0 0 auto; width: 48%; min-width: 300px;">
+  <div style="flex: 0 0 auto; width: 45%; min-width: 250px; max-width: 350px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
   </div>
-  <div style="flex: 0 0 auto; width: 48%; min-width: 300px;">
+  <div style="flex: 0 0 auto; width: 45%; min-width: 250px; max-width: 350px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
   </div>
 </div>
 
 <!-- Activity Graph - Wider width -->
-<a href="https://github.com/aryan-dani/github-readme-activity-graph" style="display: block; margin-top: 20px; width: 100%;">
-  <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
-</a>
+<div style="margin: 20px auto 0; max-width: 900px;">
+  <a href="https://github.com/aryan-dani/github-readme-activity-graph">
+    <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+  </a>
+</div>
 
 </div>
 </div>
