@@ -17,49 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=58a6ff"alt="Profile Views" />
 </p>
 
-<!-- NEW BEAUTIFUL SHIELDS.IO TECH STACK -->
-<div style="margin: 25px 0;">
-<h3 align="center" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
-  🛠️ My Tech Stack
-</h3>
-<p align="center" style="margin-bottom: 15px;">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-<p align="center" style="margin-bottom: 15px;">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-<p align="center" style="margin-bottom: 15px;">
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-<p align="center" style="margin-bottom: 15px;">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-<p align="center" style="margin-bottom: 15px;">
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-</div>
-
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=2&section=header&width=100%" />
 <br></br>
@@ -76,33 +33,108 @@
 ---
 
 <!-- Section Wrapper: Tech Stack -->
+<div style="font-family: 'Poppins', sans-serif; padding: 25px; margin-bottom: 30px; background-color: #161b22; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+  <h2 align="left" style="font-weight: 700; margin-bottom: 25px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+    <img src="https://em-content.zobj.net/thumbs/120/apple/325/toolbox_1f9f0.png" width="28" style="margin-right: 8px; vertical-align: sub;"/>
+    Tech Stack Breakdown
+  </h2>
 
-## 🧰 Tech Stack Breakdown
+  <!-- Languages -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" width="22" style="margin-right: 8px;"/> 
+      💻 Languages
+    </h3>
+    <ul style="color: #8b949e; margin-bottom: 0;">
+      <li><b style="color: #c9d1d9;">C/C++</b>: For systems programming and performance-critical applications.</li>
+      <li><b style="color: #c9d1d9;">Python</b>: Data science, AI/ML, scripting, and automation.</li>
+      <li><b style="color: #c9d1d9;">JavaScript/TypeScript</b>: Building interactive, scalable web applications.</li>
+    </ul>
+  </div>
 
-### 💻 Languages
+  <!-- Frontend -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/artist-palette_1f3a8.png" width="22" style="margin-right: 8px;"/> 
+      🌐 Frontend
+    </h3>
+    <ul style="color: #8b949e; margin-bottom: 0;">
+      <li><b style="color: #c9d1d9;">HTML5, CSS3, SASS</b>: Crafting responsive, visually appealing interfaces.</li>
+      <li><b style="color: #c9d1d9;">Bootstrap</b>: Rapid prototyping and responsive design.</li>
+      <li><b style="color: #c9d1d9;">Angular & React</b>: Dynamic single-page applications (SPAs) with modern frameworks.</li>
+    </ul>
+  </div>
 
-- **C/C++**: For systems programming and performance-critical applications.
-- **Python**: Data science, AI/ML, scripting, and automation.
-- **JavaScript/TypeScript**: Building interactive, scalable web applications.
+  <!-- AI/ML -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="22" style="margin-right: 8px;"/> 
+      🧠 AI / ML
+    </h3>
+    <ul style="color: #8b949e; margin-bottom: 0;">
+      <li><b style="color: #c9d1d9;">TensorFlow (with Keras)</b>: Deep learning for image and text processing.</li>
+      <li><b style="color: #c9d1d9;">PyTorch</b>: Experimenting with neural networks and real-time AI solutions.</li>
+      <li><b style="color: #c9d1d9;">OpenCV</b>: Computer vision for real-time object detection.</li>
+    </ul>
+  </div>
 
-### 🌐 Frontend
-
-- **HTML5, CSS3, SASS**: Crafting responsive, visually appealing interfaces.
-- **Bootstrap**: Rapid prototyping and responsive design.
-- **Angular & React**: Dynamic single-page applications (SPAs) with modern frameworks.
-
-### 🧠 AI / ML
-
-- **TensorFlow (with Keras)**: Deep learning for image and text processing.
-- **PyTorch**: Experimenting with neural networks and real-time AI solutions.
-- **OpenCV**: Computer vision for real-time object detection.
-
-### ⚙️ Tools & Platforms
-
-- **VS Code**: Primary editor with productivity-boosting extensions.
-- **Git & GitHub**: Version control and collaborative development.
-- **Google Cloud Platform (GCP)**: Cloud services for AI and data processing.
-- **AWS**: Scalable cloud infrastructure for applications.
+  <!-- Tools -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
+      <img src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png" width="22" style="margin-right: 8px;"/> 
+      ⚙️ Tools & Platforms
+    </h3>
+    <ul style="color: #8b949e; margin-bottom: 0;">
+      <li><b style="color: #c9d1d9;">VS Code</b>: Primary editor with productivity-boosting extensions.</li>
+      <li><b style="color: #c9d1d9;">Git & GitHub</b>: Version control and collaborative development.</li>
+      <li><b style="color: #c9d1d9;">Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing.</li>
+      <li><b style="color: #c9d1d9;">AWS</b>: Scalable cloud infrastructure for applications.</li>
+    </ul>
+  </div>
+  
+  <!-- NEW SHIELDS.IO TECH STACK WITH BACKGROUND -->
+  <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-top: 25px;">
+    <h3 align="center" style="font-weight: 600; margin-bottom: 20px; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
+      🛠️ My Tech Stack
+    </h3>
+    <p align="center" style="margin-bottom: 15px;">
+      <!-- Programming Languages -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </p>
+    <p align="center" style="margin-bottom: 15px;">
+      <!-- Frontend -->
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </p>
+    <p align="center" style="margin-bottom: 15px;">
+      <!-- AI/ML -->
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    </p>
+    <p align="center" style="margin-bottom: 15px;">
+      <!-- Tools -->
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    </p>
+    <p align="center" style="margin-bottom: 0;">
+      <!-- Database -->
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -298,7 +330,6 @@ journey
 <img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
 </picture>
 </div>
-
 
 <!-- Status indicator - Centered -->
 <p align="center" style="margin:30px 0; font-family: 'Poppins', sans-serif;">
