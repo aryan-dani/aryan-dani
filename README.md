@@ -1,3 +1,4 @@
+<kbd style="display: block; width: 100%;">
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani Banner" width="100%"/>
 
@@ -15,12 +16,14 @@
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
 </div>
+</kbd>
 
 <br/>
 
-## 🛠️ Tech Stack Breakdown
-<kbd>
-<div>
+<kbd style="display: block; width: 100%;">
+<h2 align="center">🛠️ Tech Stack Breakdown</h2>
+
+<div align="center">
   <h3>💻 Languages</h3>
   <p>
     <b>C/C++</b>: For systems programming and performance-critical applications<br/>
@@ -49,10 +52,7 @@
     <b>Google Cloud Platform (GCP)</b>: Cloud services for AI and data processing<br/>
     <b>AWS</b>: Scalable cloud infrastructure for applications
   </p>
-</div>
-</kbd>
 
-<div align="center">
   <h3>🛠️ My Tech Stack</h3>
 
   <!-- Programming Languages -->
@@ -96,36 +96,76 @@
     <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   </p>
 </div>
+</kbd>
 
 <br/>
 
-## 🚀 Featured Projects
+<kbd style="display: block; width: 100%;">
+<h2 align="center">🚀 Featured Projects</h2>
 
-| Project                                                                        | Tech                                   | Description                                                                                                                      |
-| :----------------------------------------------------------------------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| 🔫 [**Threat Detection**](https://github.com/aryan-dani/threat-detection-yolo) | Python, Deep Learning, OpenCV, YOLOv11 | Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities. |
-| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio)             | HTML, CSS, JS                          | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.                |
-| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker)        | Google Forms, Make.com, Google Sheets  | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.               |
+<div style="overflow-x: auto; width: 100%;">
+<table align="center" style="width: 90%; margin: 0 auto;">
+<thead>
+  <tr>
+    <th style="width: 40%; text-align: left;">Project</th>
+    <th style="width: 25%; text-align: left;">Tech</th>
+    <th style="width: 35%; text-align: left;">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>🔫 <a href="https://github.com/aryan-dani/threat-detection-yolo"><b>Threat Detection</b></a></td>
+    <td>Python, Deep Learning, OpenCV, YOLOv11</td>
+    <td>Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</td>
+  </tr>
+  <tr>
+    <td>💼 <a href="https://aryan-dani.github.io/Portfolio"><b>Portfolio Website</b></a></td>
+    <td>HTML, CSS, JS</td>
+    <td>A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</td>
+  </tr>
+  <tr>
+    <td>📊 <a href="https://github.com/aryan-dani/expense-tracker"><b>Expense Tracker</b></a></td>
+    <td>Google Forms, Make.com, Google Sheets</td>
+    <td>Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</kbd>
 
 <br/>
 
-## 🧪 Certifications
+<kbd style="display: block; width: 100%;">
+<h2 align="center">🧪 Certifications</h2>
 
-- 📜 **[IBM Data Science Professional Certificate](https://example.com)**  
-  Mastered data analysis, visualization, and machine learning with Python.
-
-- 🧠 **[Full-Stack Web Dev by Colt Steele](https://example.com)**  
-  Built MERN stack applications from scratch.
-
-- 🛠️ **[Angular Course by Maximilian Schwarzmüller](https://example.com)**  
-  Developed scalable SPAs with Angular.
-
-- 📊 **[Data Visualization, Python for Everybody](https://example.com)**  
-  Enhanced skills in data storytelling and Python programming.
+<div align="center">
+  <table width="90%" align="center" style="border: none; background: none;">
+    <tr>
+      <td width="48%" align="right" valign="middle">📜 <b>IBM Data Science Professional Certificate</b></td>
+      <td width="52%" align="left" valign="middle">Mastered data analysis, visualization, and machine learning with Python.</td>
+    </tr>
+    <tr><td colspan="2" height="15"></td></tr>
+    <tr>
+      <td width="48%" align="right" valign="middle">🧠 <b>Full-Stack Web Dev by Colt Steele</b></td>
+      <td width="52%" align="left" valign="middle">Built MERN stack applications from scratch.</td>
+    </tr>
+    <tr><td colspan="2" height="15"></td></tr>
+    <tr>
+      <td width="48%" align="right" valign="middle">🛠️ <b>Angular Course by Maximilian Schwarzmüller</b></td>
+      <td width="52%" align="left" valign="middle">Developed scalable SPAs with Angular.</td>
+    </tr>
+    <tr><td colspan="2" height="15"></td></tr>
+    <tr>
+      <td width="48%" align="right" valign="middle">📊 <b>Data Visualization, Python for Everybody</b></td>
+      <td width="52%" align="left" valign="middle">Enhanced skills in data storytelling and Python programming.</td>
+    </tr>
+  </table>
+</div>
+</kbd>
 
 <br/>
 
-<kbd>
+<kbd style="display: block; width: 100%;">
 <h2 align="center">📅 My Tech Journey</h2>
 
 ```mermaid
@@ -146,7 +186,7 @@ journey
 <div align="center">
   <h3>Timeline</h3>
 
-  <table>
+  <table width="90%" align="center">
     <tr>
       <td align="right" width="120px"><b>2023 🌱</b></td>
       <td>
@@ -177,26 +217,34 @@ journey
 
   <h3>Skill Growth Over Time</h3>
   
-  <table width="80%" align="center">
+  <table width="90%" align="center">
     <tr>
       <td align="right" width="60px"><b>2023</b></td>
       <td>
-        <img src="https://progress-bar.dev/35?width=500&color=333333" alt="35%">
-        <i>Est. Skills: 35%</i>
+        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #666666; width: 35%; height: 10px; border-radius: 5px;"></div>
+        </div>
+        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 35%</i></div>
       </td>
     </tr>
+    <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right" width="60px"><b>2024</b></td>
       <td>
-        <img src="https://progress-bar.dev/65?width=500&color=333333" alt="65%">
-        <i>Est. Skills: 65%</i>
+        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #666666; width: 65%; height: 10px; border-radius: 5px;"></div>
+        </div>
+        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 65%</i></div>
       </td>
     </tr>
+    <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right" width="60px"><b>2025</b></td>
       <td>
-        <img src="https://progress-bar.dev/85?width=500&color=333333" alt="85%">
-        <i>Est. Skills: 85%</i>
+        <div style="background-color: #30363d; border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #666666; width: 85%; height: 10px; border-radius: 5px;"></div>
+        </div>
+        <div align="left" style="margin-top: 5px;"><i>Est. Skills: 85%</i></div>
       </td>
     </tr>
   </table>
@@ -205,10 +253,10 @@ journey
 
 <br/>
 
-<kbd>
-<h2 align="left">📫 Let's Connect</h2>
+<kbd style="display: block; width: 100%;">
+<h2 align="center">📫 Let's Connect</h2>
 
-<p>I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
+<p align="center">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
@@ -228,18 +276,35 @@ journey
 
 <br/>
 
-<kbd>
-<h2 align="left">✨ Fun Facts About Me</h2>
+<kbd style="display: block; width: 100%;">
+<h2 align="center">✨ Fun Facts About Me</h2>
 
-- 🧋 Addicted to tea, not coffee (don't @ me 😤).
-- 🤖 Could talk about AI, tech, and gadgets for hours.
-- 📱 I love smartphones more than most people love pizza (and that's saying something).
-- 💻 Coding with lo-fi and chai = perfect combo.
-  </kbd>
+<div align="center">
+  <table width="80%" style="border: none;">
+    <tr>
+      <td width="50%" align="right">🧋</td>
+      <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
+    </tr>
+    <tr>
+      <td width="50%" align="right">🤖</td>
+      <td width="50%" align="left">Could talk about AI, tech, and gadgets for hours.</td>
+    </tr>
+    <tr>
+      <td width="50%" align="right">📱</td>
+      <td width="50%" align="left">I love smartphones more than most people love pizza (and that's saying something).</td>
+    </tr>
+    <tr>
+      <td width="50%" align="right">💻</td>
+      <td width="50%" align="left">Coding with lo-fi and chai = perfect combo.</td>
+    </tr>
+  </table>
+</div>
+</kbd>
 
 <br/>
 
-## 📊 GitHub Stats
+<kbd style="display: block; width: 100%;">
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <!-- GitHub Streak Stats - Monochrome -->
@@ -255,11 +320,11 @@ journey
 <br/><br/>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" width="850" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" width="90%" />
 </div>
 
 <!-- Snake Animation - Monochrome style -->
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
@@ -267,6 +332,7 @@ journey
   </picture>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
 </p>
+</kbd>
