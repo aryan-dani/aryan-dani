@@ -297,21 +297,21 @@ journey
 <tr><td>
 
 <div align="center">
-  <table width="80%" align="center">
+  <table width="100" align="center">
     <tr>
-      <td width="50%" align="right">🧋</td>
+      <td width="5%" align="right">🧋</td>
       <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
     </tr>
     <tr>
-      <td width="50%" align="right">🤖</td>
+      <td width="5%" align="right">🤖</td>
       <td width="50%" align="left">Could talk about AI, tech, and gadgets for hours.</td>
     </tr>
     <tr>
-      <td width="50%" align="right">📱</td>
+      <td width="5%" align="right">📱</td>
       <td width="50%" align="left">I love smartphones more than most people love pizza (and that's saying something).</td>
     </tr>
     <tr>
-      <td width="50%" align="right">💻</td>
+      <td width="5%" align="right">💻</td>
       <td width="50%" align="left">Coding with lo-fi and chai = perfect combo.</td>
     </tr>
   </table>
