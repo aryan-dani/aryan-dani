@@ -42,7 +42,6 @@
   <!-- Languages -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/desktop-computer_1f5a5-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       💻 Languages
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -54,8 +53,7 @@
 
   <!-- Frontend -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
-    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/artist-palette_1f3a8.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
+    <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;"> 
       🌐 Frontend
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -68,7 +66,6 @@
   <!-- AI/ML -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       🧠 AI / ML
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -81,7 +78,6 @@
   <!-- Tools -->
   <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 20px;">
     <h3 style="font-weight: 600; color: #c9d1d9; margin-top: 0; font-family: 'Poppins', sans-serif; display: flex; align-items: center;">
-      <img src="https://em-content.zobj.net/thumbs/120/apple/325/hammer-and-wrench_1f6e0-fe0f.png" width="22" style="margin-right: 8px; filter: grayscale(100%);"/> 
       ⚙️ Tools & Platforms
     </h3>
     <ul style="color: #8b949e; margin-bottom: 0;">
@@ -142,11 +138,34 @@
 
 ## 🚀 Featured Projects
 
-| Project                                                                        | Tech                                   | Description                                                                                                                      |
-| ------------------------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 🔫 [**Threat Detection**](https://github.com/aryan-dani/threat-detection-yolo) | Python, Deep Learning, OpenCV, YOLOv11 | Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities. |
-| 💼 [**Portfolio Website**](https://aryan-dani.github.io/Portfolio)             | HTML, CSS, JS,                         | A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.                |
-| 📊 [**Expense Tracker**](https://github.com/aryan-dani/expense-tracker)        | Google Forms, Make.com, Google Sheets  | Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.               |
+<div style="overflow-x: auto;">
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+  <tr>
+    <th style="width: 40%; text-align: left; padding: 12px 15px; border-bottom: 1px solid #30363d;">Project</th>
+    <th style="width: 25%; text-align: left; padding: 12px 15px; border-bottom: 1px solid #30363d;">Tech</th>
+    <th style="width: 35%; text-align: left; padding: 12px 15px; border-bottom: 1px solid #30363d;">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;">🔫 <a href="https://github.com/aryan-dani/threat-detection-yolo"><b>Threat Detection</b></a></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">Python, Deep Learning, OpenCV, YOLOv11</span></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</span></td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;">💼 <a href="https://aryan-dani.github.io/Portfolio"><b>Portfolio Website</b></a></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">HTML, CSS, JS</span></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</span></td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;">📊 <a href="https://github.com/aryan-dani/expense-tracker"><b>Expense Tracker</b></a></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">Google Forms, Make.com, Google Sheets</span></td>
+    <td style="padding: 12px 15px; border-bottom: 1px solid #30363d;"><span style="color: #8b949e;">Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</span></td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 <!-- Section Wrapper: Certifications & Learning -->
 
@@ -168,14 +187,16 @@
 
 <!-- Section Wrapper: My Tech Journey -->
 <div style="font-family: 'Poppins', sans-serif; padding: 20px; margin-bottom: 20px; background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; color: #c9d1d9;">
-<h2 align="left" style="font-weight: 600; margin-bottom: 25px; font-family: 'Poppins', sans-serif;"> <!-- Changed align to left -->
+<h2 align="left" style="font-weight: 600; margin-bottom: 25px; font-family: 'Poppins', sans-serif;">
 📅 My Tech Journey
 </h2>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=1&section=header&width=100%" style="margin-bottom:15px;" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gray&height=1&section=header&width=100%" style="margin-bottom:15px;" />
 </div>
 
+<div class="mermaid" style="background-color: transparent; text-align: center; margin: 30px 0;">
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#333333', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#555555', 'lineColor': '#666666', 'secondaryColor': '#555555', 'tertiaryColor': '#222222' }}}%%
 journey
     title Aryan's Learning Path
     section 2023
@@ -189,13 +210,14 @@ journey
         🚀 Threat Detection System: Advanced
         🔗 Tech Content Plans Incoming: Content Creator
 ```
+</div>
 
 <!-- Timeline -->
 <table style="width: 100%; color: #c9d1d9; font-family: 'Poppins', sans-serif;">
 <tr>
   <td width="15%" align="right" style="vertical-align: top; padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2023 🌱</b></td>
   <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
-    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;"> <!-- Added text-align: left -->
+    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;">
       <li style="font-family: 'Poppins', sans-serif;">Learned Python basics and fundamentals of programming</li>
       <li style="font-family: 'Poppins', sans-serif;">Built my first HTML page and ventured into web development</li>
       <li style="font-family: 'Poppins', sans-serif;">Experimented with small coding projects to build a foundation</li>
@@ -206,7 +228,7 @@ journey
 <tr>
   <td width="15%" align="right" style="vertical-align: top; padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2024 🌿</b></td>
   <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
-    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;"> <!-- Added text-align: left -->
+    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;">
       <li style="font-family: 'Poppins', sans-serif;">Completed an intensive Full-Stack Development Bootcamp</li>
       <li style="font-family: 'Poppins', sans-serif;">Secured internship at Artem Health Tech, gaining real-world industry experience</li>
       <li style="font-family: 'Poppins', sans-serif;">Developed multiple data science projects using Python and ML frameworks</li>
@@ -217,7 +239,7 @@ journey
 <tr>
   <td width="15%" align="right" style="vertical-align: top; padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2025 🌳</b></td>
   <td width="85%" style="border-left: 2px solid #30363d; padding-left: 15px;">
-    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;"> <!-- Added text-align: left -->
+    <ul style="margin: 0; padding-left: 20px; color: #8b949e; font-family: 'Poppins', sans-serif; text-align: left;">
       <li style="font-family: 'Poppins', sans-serif;">Building advanced Threat Detection System using YOLOv11 and CNN architectures</li>
       <li style="font-family: 'Poppins', sans-serif;">Planning to launch tech content creation channels focused on AI & web development</li>
       <li style="font-family: 'Poppins', sans-serif;">Exploring opportunities to contribute to open-source AI communities</li>
@@ -226,35 +248,35 @@ journey
 </tr>
 </table>
 
-<!-- Skill Progress Bars (Dark Theme Adjusted) -->
+<!-- Skill Progress Bars (Monochrome Theme) -->
 <div style="margin-top:30px; margin-bottom:15px;">
-  <h4 align="left" style="font-weight: 600; color: #c9d1d9; margin-bottom: 15px; font-family: 'Poppins', sans-serif;">Skill Growth Over Time</h4> <!-- Changed align to left -->
+  <h4 align="left" style="font-weight: 600; color: #c9d1d9; margin-bottom: 15px; font-family: 'Poppins', sans-serif;">Skill Growth Over Time</h4>
 <table style="width:100%; font-family: 'Poppins', sans-serif;">
   <tr>
     <td width="15%" align="right" style="padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2023</b></td>
     <td width="85%">
       <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
-        <div style="background:#58a6ff; height:8px; width:35%; border-radius:10px;"></div>
+        <div style="background:#999999; height:8px; width:35%; border-radius:10px;"></div>
       </div>
-      <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 35%</p> <!-- Changed align to left -->
+      <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 35%</p>
     </td>
   </tr>
   <tr>
     <td width="15%" align="right" style="padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2024</b></td>
     <td width="85%">
       <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
-        <div style="background:#58a6ff; height:8px; width:65%; border-radius:10px;"></div>
+        <div style="background:#999999; height:8px; width:65%; border-radius:10px;"></div>
       </div>
-      <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 65%</p> <!-- Changed align to left -->
+      <p style="font-size:12px; margin:0 0 10px 0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 65%</p>
     </td>
   </tr>
   <tr>
     <td width="15%" align="right" style="padding-right: 10px; font-family: 'Poppins', sans-serif;"><b>2025</b></td>
     <td width="85%">
       <div style="background:#30363d; border-radius:10px; padding:3px; margin:5px 0;">
-        <div style="background:#58a6ff; height:8px; width:85%; border-radius:10px;"></div>
+        <div style="background:#999999; height:8px; width:85%; border-radius:10px;"></div>
       </div>
-      <p style="font-size:12px; margin:0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 85%</p> <!-- Changed align to left -->
+      <p style="font-size:12px; margin:0; color:#8b949e; font-family: 'Poppins', sans-serif; text-align: left;">Est. Skills: 85%</p>
     </td>
   </tr>
 </table>
@@ -307,32 +329,39 @@ journey
 📊 GitHub Stats
 </h2>
 <div align="center">
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=58A6FF&fire=F08C38&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d;" />
+<!-- GitHub Streak Stats - Monochrome -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid #30363d; max-width: 80%;" />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d;" />
+<!-- Smaller width stats cards with flex-wrap -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px; max-width: 900px; margin-left: auto; margin-right: auto;">
+  <!-- More narrow cards -->
+  <div style="flex: 0 0 auto; width: 48%; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+  </div>
+  <div style="flex: 0 0 auto; width: 48%; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+  </div>
 </div>
 
-<a href="https://github.com/aryan-dani/github-readme-activity-graph" style="display: block; margin-top: 20px;">
-  <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
+<!-- Activity Graph - Wider width -->
+<a href="https://github.com/aryan-dani/github-readme-activity-graph" style="display: block; margin-top: 20px; width: 100%;">
+  <img alt="Aryan Dani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #30363d; width: 100%;" />
 </a>
 
 </div>
 </div>
 
-<!-- Snake Animation -->
-<div align="center" style="margin-bottom: 20px;"> <!-- Kept centered -->
+<!-- Snake Animation - Monochrome style -->
+<div align="center" style="margin-bottom: 20px;"> 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/output/github-snake.svg" style="filter: grayscale(100%);" />
 </picture>
 </div>
 
 <!-- Status indicator - Centered -->
 <p align="center" style="margin:30px 0; font-family: 'Poppins', sans-serif;">
-<img src="https://img.shields.io/badge/Status-Always%20Learning-38a169?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Always%20Learning-333333?style=for-the-badge&logo=googlescholar&logoColor=white">
 </p>
 </div>
