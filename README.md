@@ -26,44 +26,75 @@
 
 <h3>💻 Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Versatile language for web dev, data science, AI/ML." />
-  <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="High-performance language for systems programming, game dev." />
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" title="Core language for web interactivity and front-end development." />
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="Superset of JavaScript adding static types for large-scale applications." />
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+<ul>
+  <li><b>Python:</b> Versatile language for web dev, data science, AI/ML.</li>
+  <li><b>C++:</b> High-performance language for systems programming, game dev.</li>
+  <li><b>JavaScript:</b> Core language for web interactivity and front-end development.</li>
+  <li><b>TypeScript:</b> Superset of JavaScript adding static types for large-scale applications.</li>
+</ul>
 
 <h3>🌐 Web Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Standard markup language for creating web pages." />
-  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Stylesheet language for designing web page appearance." />
-  <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Comprehensive framework for building dynamic web applications." />
-  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" title="Library for building user interfaces, particularly single-page applications." />
-  <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Front-end framework for responsive, mobile-first web design." />
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+<ul>
+  <li><b>HTML5:</b> Standard markup language for creating web pages.</li>
+  <li><b>CSS3:</b> Stylesheet language for designing web page appearance.</li>
+  <li><b>Angular:</b> Comprehensive framework for building dynamic web applications.</li>
+  <li><b>React:</b> Library for building user interfaces, particularly single-page applications.</li>
+  <li><b>Bootstrap:</b> Front-end framework for responsive, mobile-first web design.</li>
+</ul>
 
 <h3>🧠 AI / ML</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="Open-source library for machine learning and AI." />
-  <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="Open-source machine learning framework based on Torch library." />
-  <img src="https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="High-level neural networks API, running on top of TensorFlow, Theano, or CNTK." />
-  <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Data manipulation and analysis library for Python." />
-  <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" title="Library for real-time computer vision applications." />
+  <img src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
+<ul>
+  <li><b>TensorFlow:</b> Open-source library for machine learning and AI.</li>
+  <li><b>PyTorch:</b> Open-source machine learning framework based on Torch library.</li>
+  <li><b>Keras:</b> High-level neural networks API, running on top of TensorFlow, Theano, or CNTK.</li>
+  <li><b>Pandas:</b> Data manipulation and analysis library for Python.</li>
+  <li><b>OpenCV:</b> Library for real-time computer vision applications.</li>
+</ul>
 
 <h3>⚙️ Tools & Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Distributed version control system for tracking changes in source code." />
-  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="Popular, free source-code editor developed by Microsoft." />
-  <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Suite of cloud computing services offered by Google." />
-  <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="Comprehensive cloud computing platform by Amazon." />
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
+<ul>
+  <li><b>Git:</b> Distributed version control system for tracking changes in source code.</li>
+  <li><b>VS Code:</b> Popular, free source-code editor developed by Microsoft.</li>
+  <li><b>Google Cloud:</b> Suite of cloud computing services offered by Google.</li>
+  <li><b>AWS:</b> Comprehensive cloud computing platform by Amazon.</li>
+</ul>
 
 <h3>🗄️ Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="NoSQL document database known for flexibility and scalability." />
-  <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="Self-contained, serverless, transactional SQL database engine." />
-  <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" title="Platform developed by Google for creating mobile and web applications." />
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
+<ul>
+  <li><b>MongoDB:</b> NoSQL document database known for flexibility and scalability.</li>
+  <li><b>SQLite:</b> Self-contained, serverless, transactional SQL database engine.</li>
+  <li><b>Firebase:</b> Platform developed by Google for creating mobile and web applications.</li>
+</ul>
 
 ---
 
