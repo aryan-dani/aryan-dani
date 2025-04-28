@@ -10,7 +10,12 @@
 </kbd>
 <br></br>
 <kbd style="display: block; width: 100%;">
-  <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=333333" alt="Profile Views" />
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=333333" alt="Profile Views" />
+    <a href="https://aryan-dani.github.io/Portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
 </kbd>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
   <br/>
