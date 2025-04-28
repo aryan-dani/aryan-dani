@@ -106,32 +106,52 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<table width="90%">
-<thead>
-  <tr>
-    <th width="180px" align="center">Project</th>
-    <th width="200px" align="center">Tech</th>
-    <th width="350px" align="center">Description</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>🔫 <a href="https://github.com/aryan-dani/threat-detection-yolo"><b>Threat Detection</b></a></td>
-    <td>Python, Deep Learning, OpenCV, YOLOv11</td>
-    <td>Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</td>
-  </tr>
-  <tr>
-    <td>💼 <a href="https://aryan-dani.github.io/Portfolio"><b>Portfolio Website</b></a></td>
-    <td>HTML, CSS, JS</td>
-    <td>A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</td>
-  </tr>
-  <tr>
-    <td>📊 <a href="https://github.com/aryan-dani/expense-tracker"><b>Expense Tracker</b></a></td>
-    <td>Google Forms, Make.com, Google Sheets</td>
-    <td>Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</td>
-  </tr>
-</tbody>
-</table>
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <table width="100%">
+      <thead>
+        <tr>
+          <th width="180px" align="center" style="border-bottom: 1px solid #333333;">
+            <span style="color: #999999;">Project</span>
+          </th>
+          <th width="200px" align="center" style="border-bottom: 1px solid #333333;">
+            <span style="color: #999999;">Tech</span>
+          </th>
+          <th width="350px" align="center" style="border-bottom: 1px solid #333333;">
+            <span style="color: #999999;">Description</span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/threat-detection-yolo" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🔫_Threat_Detection-333333?style=for-the-badge" alt="Threat Detection" />
+            </a>
+          </td>
+          <td>Python, Deep Learning, OpenCV, YOLOv11</td>
+          <td>Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://aryan-dani.github.io/Portfolio" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/💼_Portfolio_Website-333333?style=for-the-badge" alt="Portfolio Website" />
+            </a>
+          </td>
+          <td>HTML, CSS, JS</td>
+          <td>A responsive, interactive site showcasing my projects and skills. Features smooth animations and a modern design.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/expense-tracker" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/📊_Expense_Tracker-333333?style=for-the-badge" alt="Expense Tracker" />
+            </a>
+          </td>
+          <td>Google Forms, Make.com, Google Sheets</td>
+          <td>Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
 ---
@@ -139,36 +159,42 @@
 ## 🧪 Certifications
 
 <div align="center">
-  <table width="90%" align="center" style="border: none;">
-    <tr>
-      <td width="48%" align="right" valign="middle">📜 <b>IBM Data Science Professional Certificate</b></td>
-      <td width="52%" align="left" valign="middle">Mastered data analysis, visualization, and machine learning with Python.</td>
-    </tr>
-    <tr><td colspan="2" height="15"></td></tr>
-    <tr>
-      <td width="48%" align="right" valign="middle">🧠 <b>Full-Stack Web Dev by Colt Steele</b></td>
-      <td width="52%" align="left" valign="middle">Built MERN stack applications from scratch.</td>
-    </tr>
-    <tr><td colspan="2" height="15"></td></tr>
-    <tr>
-      <td width="48%" align="right" valign="middle">🛠️ <b>Angular Course by Maximilian Schwarzmüller</b></td>
-      <td width="52%" align="left" valign="middle">Developed scalable SPAs with Angular.</td>
-    </tr>
-    <tr><td colspan="2" height="15"></td></tr>
-    <tr>
-      <td width="48%" align="right" valign="middle">📊 <b>Data Visualization, Python for Everybody</b></td>
-      <td width="52%" align="left" valign="middle">Enhanced skills in data storytelling and Python programming.</td>
-    </tr>
-  </table>
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <table width="90%" align="center" style="border: none;">
+      <tr>
+        <td width="48%" align="right" valign="middle">
+          <img src="https://img.shields.io/badge/📜_IBM_Data_Science-333333?style=for-the-badge" alt="IBM Data Science" />
+        </td>
+        <td width="52%" align="left" valign="middle">Mastered data analysis, visualization, and machine learning with Python.</td>
+      </tr>
+      <tr><td colspan="2" height="15"></td></tr>
+      <tr>
+        <td width="48%" align="right" valign="middle">
+          <img src="https://img.shields.io/badge/🧠_Full--Stack_Web_Dev-333333?style=for-the-badge" alt="Full-Stack Web Dev" />
+        </td>
+        <td width="52%" align="left" valign="middle">Built MERN stack applications from scratch.</td>
+      </tr>
+      <tr><td colspan="2" height="15"></td></tr>
+      <tr>
+        <td width="48%" align="right" valign="middle">
+          <img src="https://img.shields.io/badge/🛠️_Angular_Course-333333?style=for-the-badge" alt="Angular Course" />
+        </td>
+        <td width="52%" align="left" valign="middle">Developed scalable SPAs with Angular.</td>
+      </tr>
+      <tr><td colspan="2" height="15"></td></tr>
+      <tr>
+        <td width="48%" align="right" valign="middle">
+          <img src="https://img.shields.io/badge/📊_Data_Visualization-333333?style=for-the-badge" alt="Data Visualization" />
+        </td>
+        <td width="52%" align="left" valign="middle">Enhanced skills in data storytelling and Python programming.</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
 
 ## 📅 My Tech Journey
-
-<table width="100%" align = center>
-<tr><td>
-
 ```mermaid
 journey
     title Aryan's Learning Path
@@ -183,131 +209,131 @@ journey
         🚀 Threat Detection System: Advanced
         🔗 Tech Content Plans Incoming: Content Creator
 ```
-
 <div align="center">
+
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+ 
   <h3>Timeline</h3>
 
   <table width="90%" align="center">
-    <tr>
-      <td align="right" width="120px"><b>2023 🌱</b></td>
-      <td>
-        • Learned Python basics and fundamentals of programming<br/>
-        • Built my first HTML page and ventured into web development<br/>
-        • Experimented with small coding projects to build a foundation
-      </td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="120px"><b>2024 🌿</b></td>
-      <td>
-        • Completed an intensive Full-Stack Development Bootcamp<br/>
-        • Secured internship at Artem Health Tech, gaining real-world industry experience<br/>
-        • Developed multiple data science projects using Python and ML frameworks
-      </td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="120px"><b>2025 🌳</b></td>
-      <td>
-        • Building advanced Threat Detection System using YOLOv11 and CNN architectures<br/>
-        • Planning to launch tech content creation channels focused on AI & web development<br/>
-        • Exploring opportunities to contribute to open-source AI communities
-      </td>
-    </tr>
-  </table>
+      <tr>
+        <td align="right" width="120px"><b>2023 🌱</b></td>
+        <td>
+          • Learned Python basics and fundamentals of programming<br/>
+          • Built my first HTML page and ventured into web development<br/>
+          • Experimented with small coding projects to build a foundation
+        </td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="120px"><b>2024 🌿</b></td>
+        <td>
+          • Completed an intensive Full-Stack Development Bootcamp<br/>
+          • Secured internship at Artem Health Tech, gaining real-world industry experience<br/>
+          • Developed multiple data science projects using Python and ML frameworks
+        </td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="120px"><b>2025 🌳</b></td>
+        <td>
+          • Building advanced Threat Detection System using YOLOv11 and CNN architectures<br/>
+          • Planning to launch tech content creation channels focused on AI & web development<br/>
+          • Exploring opportunities to contribute to open-source AI communities
+        </td>
+      </tr>
+    </table>
 
   <h3>Skill Growth Over Time</h3>
-  
-  <table width="90%" align="center">
-    <tr>
-      <td align="right" width="60px"><b>2023</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-35.png" alt="Skills: 35%" width="100%"/>
-        <i>Est. Skills: 35%</i>
-      </td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="60px"><b>2024</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-65.png" alt="Skills: 65%" width="100%"/>
-        <i>Est. Skills: 65%</i>
-      </td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="60px"><b>2025</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/skills-85.png" alt="Skills: 85%" width="100%"/>
-        <i>Est. Skills: 85%</i>
-      </td>
-    </tr>
-  </table>
-</div>
 
-</td></tr>
-</table>
+  <table width="90%" align="center">
+      <tr>
+        <td align="right" width="60px"><b>2023</b></td>
+        <td>
+          <i>Est. Skills: 35%</i>
+        </td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="60px"><b>2024</b></td>
+        <td>
+          <i>Est. Skills: 65%</i>
+        </td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="60px"><b>2025</b></td>
+        <td>
+          <i>Est. Skills: 85%</i>
+        </td>
+      </tr>
+  </table>
+
+  </div>
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-<table width="100%" align = center>
-<tr><td>
-
-<p align="center">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/aryandani_06/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/Killfall15" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:aryaandani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <p align="center">I'm always looking to collaborate on exciting projects or just chat about tech! Reach out through any of these platforms:</p>
 
-</td></tr>
-</table>
+  <div align="center">
+      <a href="https://www.linkedin.com/in/aryandani/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://www.instagram.com/aryandani_06/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <a href="https://x.com/Killfall15" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+      </a>
+      <a href="mailto:aryaandani@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </div>
+
+  </div>
+</div>
 
 ---
 
 ## ✨ Fun Facts About Me
 
 <div align="center">
-  <table width="90%" align="center"> <!-- Adjusted width to 90% for consistency -->
-    <tr>
-      <td width="5%" align="right">🧋</td>
-      <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
-    </tr>
-    <tr>
-      <td width="5%" align="right">🤖</td>
-      <td width="50%" align="left">Could talk about AI, tech, and gadgets for hours.</td>
-    </tr>
-    <tr>
-      <td width="5%" align="right">📱</td>
-      <td width="50%" align="left">I love smartphones more than most people love pizza (and that's saying something).</td>
-    </tr>
-    <tr>
-      <td width="5%" align="right">💻</td>
-      <td width="50%" align="left">Coding with lo-fi and chai = perfect combo.</td>
-    </tr>
-  </table>
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
+    <table width="90%" align="center">
+      <tr>
+        <td width="5%" align="right"><img src="https://img.shields.io/badge/🧋-333333?style=for-the-badge" alt="Tea" /></td>
+        <td width="50%" align="left">Addicted to tea, not coffee (don't @ me 😤).</td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td width="5%" align="right"><img src="https://img.shields.io/badge/🤖-333333?style=for-the-badge" alt="AI" /></td>
+        <td width="50%" align="left">Could talk about AI, tech, and gadgets for hours.</td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td width="5%" align="right"><img src="https://img.shields.io/badge/📱-333333?style=for-the-badge" alt="Smartphone" /></td>
+        <td width="50%" align="left">I love smartphones more than most people love pizza (and that's saying something).</td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td width="5%" align="right"><img src="https://img.shields.io/badge/💻-333333?style=for-the-badge" alt="Coding" /></td>
+        <td width="50%" align="left">Coding with lo-fi and chai = perfect combo.</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-<tr><td>
-
 <div align="center">
+  <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
   <!-- GitHub Streak Stats - Monochrome -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dani&theme=github-dark&hide_border=false&stroke=0000&background=0D1117&ring=999999&fire=999999&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="500" />
 
@@ -322,10 +348,8 @@ journey
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=0d1117&color=999999&line=999999&point=cccccc&hide_border=false&area=true&area_color=161b22" width="90%" />
+  </div>
 </div>
-
-</td></tr>
-</table>
 
 ---
 
