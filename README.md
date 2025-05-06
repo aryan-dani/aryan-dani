@@ -276,9 +276,8 @@ timeline
         : Data Science Journey
         : Python Learning
         : JavaScript Fundamentals
-        : Started Threat Detection Project
-    March 2025
-        : LLM Ex  ploration
+        : Started Threat Detection Project    March 2025
+        : LLM Exploration
         : Portfolio Design
         : Angular Learning
         : Speech-to-Text App
@@ -394,7 +393,7 @@ timeline
   <!-- Smaller width stats cards with flex layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dani&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999" alt="Top Languages" width="370" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="GitHub Stats" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dani&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=999999&text_color=C9D1D9&icon_color=999999&count_private=true&include_all_commits=true" alt="GitHub Stats" width="370" />
 
 <br/><br/>
 
