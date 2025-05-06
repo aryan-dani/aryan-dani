@@ -35,12 +35,20 @@
   <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 <ul>
   <li><b>Python:</b> Versatile language for web dev, data science, AI/ML.</li>
   <li><b>C++:</b> High-performance language for systems programming, game dev.</li>
   <li><b>JavaScript:</b> Core language for web interactivity and front-end development.</li>
   <li><b>TypeScript:</b> Superset of JavaScript adding static types for large-scale applications.</li>
+  <li><b>Java:</b> Widely-used for enterprise-scale applications, Android app development.</li>
+  <li><b>C#:</b> Developed by Microsoft, used for Windows apps, game development with Unity.</li>
+  <li><b>Go:</b> Developed by Google, known for simplicity and efficiency in concurrent programming.</li>
+  <li><b>PHP:</b> Server-side scripting language popular for web development, powers WordPress.</li>
 </ul>
 
 <h3>🌐 Web Development</h3>
@@ -110,13 +118,13 @@
     <table width="100%">
       <thead>
         <tr>
-          <th width="180px" align="center" style="border-bottom: 1px solid #333333;">
+          <th width="220px" align="center" style="border-bottom: 1px solid #333333;">
             <span style="color: #999999;">Project</span>
           </th>
-          <th width="200px" align="center" style="border-bottom: 1px solid #333333;">
+          <th width="250px" align="center" style="border-bottom: 1px solid #333333;">
             <span style="color: #999999;">Tech</span>
           </th>
-          <th width="350px" align="center" style="border-bottom: 1px solid #333333;">
+          <th width="300px" align="center" style="border-bottom: 1px solid #333333;">
             <span style="color: #999999;">Description</span>
           </th>
         </tr>
@@ -124,16 +132,16 @@
       <tbody>
         <tr>
           <td align="center">
-            <a href="https://github.com/aryan-dani/threat-detection-yolo" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/🔫_Threat_Detection-333333?style=for-the-badge" alt="Threat Detection" />
+            <a href="https://github.com/aryan-dani/Threat_Detection_System" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🔫_Threat_Detection_System-333333?style=for-the-badge" alt="Threat Detection System" />
             </a>
           </td>
-          <td>Python, Deep Learning, OpenCV, YOLOv11</td>
-          <td>Real-time object detection system identifying threats via CCTV footage. Achieved 85% accuracy in spotting suspicious activities.</td>
+          <td>Python, Deep Learning, OpenCV, YOLO</td>
+          <td>Real-time object detection system identifying threats via CCTV footage. Aiming for high accuracy in spotting suspicious activities.</td>
         </tr>
         <tr>
           <td align="center">
-            <a href="https://aryan-dani.github.io/Portfolio" style="text-decoration: none;">
+            <a href="https://github.com/aryan-dani/Portfolio" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/💼_Portfolio_Website-333333?style=for-the-badge" alt="Portfolio Website" />
             </a>
           </td>
@@ -142,12 +150,75 @@
         </tr>
         <tr>
           <td align="center">
-            <a href="https://github.com/aryan-dani/expense-tracker" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/📊_Expense_Tracker-333333?style=for-the-badge" alt="Expense Tracker" />
+            <a href="https://github.com/aryan-dani/Daily_logger" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🗓️_Daily_Logger-333333?style=for-the-badge" alt="Daily Logger" />
             </a>
           </td>
-          <td>Google Forms, Make.com, Google Sheets</td>
-          <td>Automated expense tracking integrating Google Forms for input and Sheets for real-time visualization and analysis.</td>
+          <td>Python, Tkinter</td>
+          <td>A desktop application for logging daily activities and tasks.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/Speech_To_Text" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🗣️_Speech_To_Text-333333?style=for-the-badge" alt="Speech To Text" />
+            </a>
+          </td>
+          <td>Python, SpeechRecognition</td>
+          <td>Converts speech into text using various speech recognition engines.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/HMIS_System" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🏥_HMIS_System-333333?style=for-the-badge" alt="HMIS System" />
+            </a>
+          </td>
+          <td>Python, Flask, SQLite</td>
+          <td>A Health Management Information System for managing patient data.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/DoseFlow" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/💊_DoseFlow-333333?style=for-the-badge" alt="DoseFlow" />
+            </a>
+          </td>
+          <td>Python, FastAPI, MongoDB</td>
+          <td>API for managing medication schedules and adherence.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/Dicom-Analyzer" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🩺_Dicom_Analyzer-333333?style=for-the-badge" alt="Dicom Analyzer" />
+            </a>
+          </td>
+          <td>Python, Pydicom, OpenCV</td>
+          <td>Tool for analyzing and visualizing DICOM medical images.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/Capstone_ds" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🎓_Data_Science_Capstone-333333?style=for-the-badge" alt="Data Science Capstone" />
+            </a>
+          </td>
+          <td>Python, Pandas, Scikit-learn</td>
+          <td>Capstone project for a data science program, showcasing various DS skills.</td>
+        </tr>
+         <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/Football-Analysis" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/⚽_Football_Analysis-333333?style=for-the-badge" alt="Football Analysis" />
+            </a>
+          </td>
+          <td>Python, Pandas, Matplotlib</td>
+          <td>Analysis of football match data to derive insights.</td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/aryan-dani/API-Demonstration" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/🔗_API_Demonstration-333333?style=for-the-badge" alt="API Demonstration" />
+            </a>
+          </td>
+          <td>Python, FastAPI/Flask</td>
+          <td>Demonstration of creating and interacting with APIs.</td>
         </tr>
       </tbody>
     </table>
@@ -196,79 +267,60 @@
 
 ## 📅 My Tech Journey
 ```mermaid
-journey
+timeline
     title Aryan's Learning Path
-    section 2023
-        🐍 Learned Python Basics: Beginner
-        🌐 Built First HTML Page: Novice
-    section 2024
-        💻 Full-Stack Bootcamp Begins: Intermediate
-        📈 Intern @ Artem Health Tech: Gained Industry Experience
-        🔍 Built Data Science Projects: Advanced Beginner
-    section 2025
-        🚀 Threat Detection System: Advanced
-        🔗 Tech Content Plans Incoming: Content Creator
+    January 2025
+        : Web Development Foundations
+        : HTML & CSS Mastery
+    February 2025
+        : Data Science Journey
+        : Python Learning
+        : JavaScript Fundamentals
+        : Started Threat Detection Project
+    March 2025
+        : LLM Ex  ploration
+        : Portfolio Design
+        : Angular Learning
+        : Speech-to-Text App
+    April 2025
+        : AI Tools (Copilot, Windsurf, Cursor)
+        : Open Source Contributions
+        : Daily Logger Creation
+        : DoseFlow Development
+    May 2025
+        : Continued Project Expansion
+        : Skills Refinement
 ```
 <div align="center">
 
   <div style="background-color: #0D1117; border-radius: 6px; padding: 20px; border: 1px solid #30363d; margin-bottom: 20px;">
- 
-  <h3>Timeline</h3>
-
-  <table width="90%" align="center">
+    <h3>Timeline</h3>
+    <table width="90%" align="center" style="border: none;">
       <tr>
-        <td align="right" width="120px"><b>2023 🌱</b></td>
-        <td>
-          • Learned Python basics and fundamentals of programming<br/>
-          • Built my first HTML page and ventured into web development<br/>
-          • Experimented with small coding projects to build a foundation
-        </td>
+        <td align="right" width="180px" valign="top"><b>January 2025 🌐</b></td>
+        <td>Started web development journey, mastered HTML and CSS fundamentals.</td>
       </tr>
       <tr><td colspan="2" height="10"></td></tr>
       <tr>
-        <td align="right" width="120px"><b>2024 🌿</b></td>
-        <td>
-          • Completed an intensive Full-Stack Development Bootcamp<br/>
-          • Secured internship at Artem Health Tech, gaining real-world industry experience<br/>
-          • Developed multiple data science projects using Python and ML frameworks
-        </td>
+        <td align="right" width="180px" valign="top"><b>February 2025 📊</b></td>
+        <td>Began JavaScript learning, initiated Threat Detection and Expense Tracker projects, started Python and data science, completed IBM Professional Data Science certification and Google Cloud Skill Boost courses.</td>
       </tr>
       <tr><td colspan="2" height="10"></td></tr>
       <tr>
-        <td align="right" width="120px"><b>2025 🌳</b></td>
-        <td>
-          • Building advanced Threat Detection System using YOLOv11 and CNN architectures<br/>
-          • Planning to launch tech content creation channels focused on AI & web development<br/>
-          • Exploring opportunities to contribute to open-source AI communities
-        </td>
+        <td align="right" width="180px" valign="top"><b>March 2025 🧠</b></td>
+        <td>Designed portfolio website, explored large language models, learned Angular framework and built Speech-to-Text application.</td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="180px" valign="top"><b>April 2025 🤖</b></td>
+        <td>Explored AI coding tools (GitHub Copilot, Windsurf, Cursor), made open source contributions, developed Daily Logger application and DoseFlow project.</td>
+      </tr>
+      <tr><td colspan="2" height="10"></td></tr>
+      <tr>
+        <td align="right" width="180px" valign="top"><b>May 2025 🚀</b></td>
+        <td>Currently expanding project portfolio and refining skills across multiple domains.</td>
       </tr>
     </table>
-
-  <h3>Skill Growth Over Time</h3>
-
-  <table width="90%" align="center">
-      <tr>
-        <td align="right" width="60px"><b>2023</b></td>
-        <td>
-          <i>Est. Skills: 35%</i>
-        </td>
-      </tr>
-      <tr><td colspan="2" height="10"></td></tr>
-      <tr>
-        <td align="right" width="60px"><b>2024</b></td>
-        <td>
-          <i>Est. Skills: 65%</i>
-        </td>
-      </tr>
-      <tr><td colspan="2" height="10"></td></tr>
-      <tr>
-        <td align="right" width="60px"><b>2025</b></td>
-        <td>
-          <i>Est. Skills: 85%</i>
-        </td>
-      </tr>
-  </table>
-
   </div>
 </div>
 
