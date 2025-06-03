@@ -46,9 +46,6 @@
   <li><b>JavaScript:</b> Core language for web interactivity and front-end development.</li>
   <li><b>TypeScript:</b> Superset of JavaScript adding static types for large-scale applications.</li>
   <li><b>Java:</b> Widely-used for enterprise-scale applications, Android app development.</li>
-  <li><b>C#:</b> Developed by Microsoft, used for Windows apps, game development with Unity.</li>
-  <li><b>Go:</b> Developed by Google, known for simplicity and efficiency in concurrent programming.</li>
-  <li><b>PHP:</b> Server-side scripting language popular for web development, powers WordPress.</li>
 </ul>
 
 <h3>🌐 Web Development</h3>
@@ -64,7 +61,7 @@
   <li><b>CSS3:</b> Stylesheet language for designing web page appearance.</li>
   <li><b>Angular:</b> Comprehensive framework for building dynamic web applications.</li>
   <li><b>React:</b> Library for building user interfaces, particularly single-page applications.</li>
-  <li><b>Bootstrap:</b> Front-end framework for responsive, mobile-first web design.</li>
+  <li><b>JavaScript:</b> Core language for web interactivity and front-end development.</li>
 </ul>
 
 <h3>🧠 AI / ML</h3>
