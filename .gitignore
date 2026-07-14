@@ -1,0 +1,12 @@
+# Keep the raw portrait private — only portrait.txt is committed
+photo.jpg
+photo.jpeg
+photo.png
+photo.webp
+photo.*
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
