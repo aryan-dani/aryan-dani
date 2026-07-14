@@ -14,15 +14,6 @@
 
   <br /><br />
 
-  <a href="https://www.aryandani.com/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=161B22" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryandani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
-  </a>
-
-  <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Profile views" />
 </div>
 
