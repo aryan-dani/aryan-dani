@@ -63,32 +63,39 @@
 <text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">aryan dani</text>
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Web Developer &amp; AI Engineer</text>
-<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Focus</text>
-<text x="540" y="135.0" class="acc row" style="animation-delay:0.56s">Modern web  ·  AI / LLMs  ·  shipping products</text>
-<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Site</text>
-<text x="540" y="152.5" class="acc row" style="animation-delay:0.63s">aryandani.com</text>
-<text x="448" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
-<text x="448" y="197.5" class="key row" style="animation-delay:0.77s">Lang</text>
-<text x="540" y="197.5" class="val row" style="animation-delay:0.77s">Python · TypeScript · JavaScript · C++ · Go</text>
-<text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Front</text>
-<text x="540" y="215.0" class="val row" style="animation-delay:0.84s">React · Angular · HTML/CSS · REST APIs</text>
-<text x="448" y="232.5" class="key row" style="animation-delay:0.91s">AI</text>
-<text x="540" y="232.5" class="val row" style="animation-delay:0.91s">PyTorch · TensorFlow · Keras · OpenCV · Pandas</text>
-<text x="448" y="250.0" class="key row" style="animation-delay:0.98s">Cloud</text>
-<text x="540" y="250.0" class="val row" style="animation-delay:0.98s">AWS · Google Cloud · Firebase</text>
-<text x="448" y="267.5" class="key row" style="animation-delay:1.05s">Data</text>
-<text x="540" y="267.5" class="val row" style="animation-delay:1.05s">MongoDB · SQLite · Firebase</text>
-<text x="448" y="295.0" class="sec row" style="animation-delay:1.12s">~/reach</text>
-<text x="448" y="312.5" class="key row" style="animation-delay:1.19s">In</text>
-<text x="540" y="312.5" class="acc row" style="animation-delay:1.19s">linkedin.com/in/aryandani</text>
-<text x="448" y="330.0" class="key row" style="animation-delay:1.26s">X</text>
-<text x="540" y="330.0" class="acc row" style="animation-delay:1.26s">x.com/Killfall15</text>
-<text x="448" y="347.5" class="key row" style="animation-delay:1.33s">Ig</text>
-<text x="540" y="347.5" class="acc row" style="animation-delay:1.33s">instagram.com/aryandani_06</text>
-<text x="448" y="365.0" class="key row" style="animation-delay:1.40s">Mail</text>
-<text x="540" y="365.0" class="acc row" style="animation-delay:1.40s">daniaryan212@gmail.com</text>
-<text x="448" y="392.5" class="row" style="animation-delay:1.47s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 29   ·   stars 50   ·   followers 15</tspan></text>
-<text x="30" y="596" class="row" style="animation-delay:1.64s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to collaborations and cool builds</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Jul 2026, 00:10 IST</text>
+<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">AI Engineer &amp; Full-Stack Developer</text>
+<text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Based</text>
+<text x="540" y="135.0" class="val row" style="animation-delay:0.56s">Pune, India  ·  MIT-WPU</text>
+<text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
+<text x="540" y="152.5" class="acc row" style="animation-delay:0.63s">Agentic AI  ·  Computer Vision  ·  Product shipping</text>
+<text x="448" y="170.0" class="key row" style="animation-delay:0.70s">Now</text>
+<text x="540" y="170.0" class="wrn row" style="animation-delay:0.70s">Google Student Ambassador  ·  building in public</text>
+<text x="448" y="197.5" class="sec row" style="animation-delay:0.77s">~/stack</text>
+<text x="448" y="215.0" class="key row" style="animation-delay:0.84s">Lang</text>
+<text x="540" y="215.0" class="val row" style="animation-delay:0.84s">Python · TypeScript · JavaScript · C++</text>
+<text x="448" y="232.5" class="key row" style="animation-delay:0.91s">Web</text>
+<text x="540" y="232.5" class="val row" style="animation-delay:0.91s">Next.js · React · Angular · FastAPI · Supabase</text>
+<text x="448" y="250.0" class="key row" style="animation-delay:0.98s">AI</text>
+<text x="540" y="250.0" class="val row" style="animation-delay:0.98s">Gemini · LangGraph · RAG · PyTorch · OpenCV</text>
+<text x="448" y="267.5" class="key row" style="animation-delay:1.05s">Ops</text>
+<text x="540" y="267.5" class="val row" style="animation-delay:1.05s">Docker · Vercel · AWS · Firebase · GitHub Actions</text>
+<text x="448" y="295.0" class="sec row" style="animation-delay:1.12s">~/highlights</text>
+<text x="448" y="312.5" class="key row" style="animation-delay:1.19s">Shadow</text>
+<text x="540" y="312.5" class="wrn row" style="animation-delay:1.19s">Dual-agent interview sim · Gemini 3.0</text>
+<text x="448" y="330.0" class="key row" style="animation-delay:1.26s">Arbiter</text>
+<text x="540" y="330.0" class="wrn row" style="animation-delay:1.26s">Autonomous CI/CD healing · RIFT 2026</text>
+<text x="448" y="347.5" class="key row" style="animation-delay:1.33s">Utility</text>
+<text x="540" y="347.5" class="wrn row" style="animation-delay:1.33s">Academic OS with document RAG</text>
+<text x="448" y="365.0" class="key row" style="animation-delay:1.40s">Artem</text>
+<text x="540" y="365.0" class="val row" style="animation-delay:1.40s">AI Engineer Intern · DICOM CNN / VLM</text>
+<text x="448" y="392.5" class="sec row" style="animation-delay:1.47s">~/reach</text>
+<text x="448" y="410.0" class="key row" style="animation-delay:1.54s">Site</text>
+<text x="540" y="410.0" class="acc row" style="animation-delay:1.54s">aryandani.com</text>
+<text x="448" y="427.5" class="key row" style="animation-delay:1.61s">In</text>
+<text x="540" y="427.5" class="acc row" style="animation-delay:1.61s">linkedin.com/in/aryandani</text>
+<text x="448" y="445.0" class="key row" style="animation-delay:1.68s">Mail</text>
+<text x="540" y="445.0" class="acc row" style="animation-delay:1.68s">daniaryan212@gmail.com</text>
+<text x="448" y="472.5" class="row" style="animation-delay:1.75s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 29   ·   stars 50   ·   followers 15</tspan></text>
+<text x="30" y="596" class="row" style="animation-delay:1.92s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI / full-stack roles and collabs</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Jul 2026, 00:22 IST</text>
 </svg>

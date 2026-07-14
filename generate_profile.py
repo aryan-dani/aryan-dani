@@ -33,21 +33,26 @@ def load_portrait():
 INFO = [
     ("__header__", "aryan dani", ""),
     ("__rule__", "", ""),
-    ("Role", "Web Developer & AI Engineer", "val"),
-    ("Focus", "Modern web  ·  AI / LLMs  ·  shipping products", "accent"),
-    ("Site", "aryandani.com", "accent"),
+    ("Role", "AI Engineer & Full-Stack Developer", "val"),
+    ("Based", "Pune, India  ·  MIT-WPU", "val"),
+    ("Focus", "Agentic AI  ·  Computer Vision  ·  Product shipping", "accent"),
+    ("Now", "Google Student Ambassador  ·  building in public", "warn"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
-    ("Lang", "Python · TypeScript · JavaScript · C++ · Go", "val"),
-    ("Front", "React · Angular · HTML/CSS · REST APIs", "val"),
-    ("AI", "PyTorch · TensorFlow · Keras · OpenCV · Pandas", "val"),
-    ("Cloud", "AWS · Google Cloud · Firebase", "val"),
-    ("Data", "MongoDB · SQLite · Firebase", "val"),
+    ("Lang", "Python · TypeScript · JavaScript · C++", "val"),
+    ("Web", "Next.js · React · Angular · FastAPI · Supabase", "val"),
+    ("AI", "Gemini · LangGraph · RAG · PyTorch · OpenCV", "val"),
+    ("Ops", "Docker · Vercel · AWS · Firebase · GitHub Actions", "val"),
+    ("__blank__", "", ""),
+    ("__section__", "~/highlights", ""),
+    ("Shadow", "Dual-agent interview sim · Gemini 3.0", "warn"),
+    ("Arbiter", "Autonomous CI/CD healing · RIFT 2026", "warn"),
+    ("Utility", "Academic OS with document RAG", "warn"),
+    ("Artem", "AI Engineer Intern · DICOM CNN / VLM", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
+    ("Site", "aryandani.com", "accent"),
     ("In", "linkedin.com/in/aryandani", "accent"),
-    ("X", "x.com/Killfall15", "accent"),
-    ("Ig", "instagram.com/aryandani_06", "accent"),
     ("Mail", "daniaryan212@gmail.com", "accent"),
     ("__blank__", "", ""),
     ("__stats__", "", ""),
@@ -264,7 +269,7 @@ def render(theme_name, colors, stats, ist_now):
         f'style="animation-delay:{delay+0.1:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8">open to collaborations and cool builds</tspan>'
+        f'<tspan class="val" dx="8">open to AI / full-stack roles and collabs</tspan>'
         f'<tspan class="cur" dx="8">█</tspan></text>'
     )
     parts.append(
