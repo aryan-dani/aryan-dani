@@ -17,15 +17,12 @@
   <a href="https://www.aryandani.com/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=161B22" alt="Portfolio" />
   </a>
-  <a href="https://www.aryandani.com/playground">
-    <img src="https://img.shields.io/badge/Interactive_CLI-0D1117?style=for-the-badge&logo=gnubash&logoColor=3FB950&labelColor=161B22" alt="Interactive CLI" />
-  </a>
   <a href="https://www.linkedin.com/in/aryandani/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
   </a>
-  <a href="mailto:daniaryan212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Email" />
-  </a>
+
+  <br /><br />
+
   <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Profile views" />
 </div>
 
@@ -34,13 +31,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani" width="100%" />
 </div>
-
-<br />
-
-<p align="center">
-  AI Engineer & Full-Stack Developer from Pune — shipping agentic systems, computer vision, and polished web products.<br />
-  Google Student Ambassador · MIT-WPU · open to AI / full-stack roles and collaborations.
-</p>
 
 ---
 
@@ -59,37 +49,27 @@ More on [aryandani.com/projects](https://www.aryandani.com/projects).
 
 ---
 
-### Path so far
+### My tech journey
 
-```text
-2024 Q4     Web foundations · GenAI essentials · Vertex AI prompt design
-2025 H1     AI Engineer Intern @ Artem HealthTech
-            DICOM CNN / VLM diagnostics · Speech-to-Text · IBM DS cert
-2025 H2     Autonomous Systems Lead @ MIT-WPU Capstone
-            Threat detection · PosePro · Arbiter · Google Student Ambassador
-2026 →      Shipping full-stack + agentic products in public
-            Shadow Instructor · Utility · Fourth Clover · Democrazy
+```mermaid
+timeline
+    title Aryan Dani — learning & career path
+    Late 2024
+        : HTML/CSS foundations and LinkedIn Learning web track
+        : Generative AI essentials · Vertex AI prompt design
+    Jan to May 2025
+        : AI Engineer Intern at Artem HealthTech, Pune
+        : DICOM CNN and VLM diagnostic pipelines · Speech-to-Text
+        : IBM Data Science Professional Certificate · freeCodeCamp RWD
+    Jun to Dec 2025
+        : Autonomous Systems Lead / ML Developer — MIT-WPU Capstone
+        : YOLO threat detection · PosePro · Arbiter LangGraph agents
+        : Selected Google Student Ambassador for Gemini advocacy
+    2026
+        : Lead Full-Stack Web Architect — freelance and open source
+        : Fourth Clover · Utility RAG OS · Shadow Instructor · Democrazy
+        : Shipping agentic AI products with Next.js, Gemini, LangGraph
 ```
-
-Full story → [Experience](https://www.aryandani.com/experience) · [Certifications](https://www.aryandani.com/certifications)
-
----
-
-### Stack at a glance
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
 
 ---
 
