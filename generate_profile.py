@@ -93,8 +93,11 @@ THEMES = {
 
 W = 1120
 ART_X, ART_Y = 28, 82
-ART_CW = 4.2
-ART_LH = ART_CW * 1.72  # natural monospace proportions — never stretch
+ART_CW = 4.0
+# GitHub's monospace renders taller than classic terminal math (1.72),
+# so use a higher cell aspect or faces look vertically elongated.
+ART_ASPECT = 2.05
+ART_LH = ART_CW * ART_ASPECT
 INFO_X, INFO_Y, INFO_LH = 470, 90, 17.2
 VAL_X = INFO_X + 96
 FOOTER_GAP = 26
@@ -232,7 +235,7 @@ def render(theme_name, colors, stats, ist_now):
         tl = len(line) * ART_CW
         parts.append(
             f'<text x="{ART_X}" y="{y:.1f}" class="art artline" xml:space="preserve" '
-            f'textLength="{tl:.1f}" lengthAdjust="spacingAndGlyphs" '
+            f'textLength="{tl:.1f}" lengthAdjust="spacing" '
             f'style="animation-delay:{delay:.2f}s">{escape(line)}</text>'
         )
 

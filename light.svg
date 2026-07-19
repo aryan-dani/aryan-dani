@@ -24,42 +24,37 @@
 <circle cx="64" cy="20" r="6" fill="#27c93f"/>
 <text x="560.0" y="24" class="ttl" text-anchor="middle">aryan-dani — zsh — 90×26</text>
 <text x="28" y="66" class="row" style="animation-delay:.05s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
-<text x="28" y="82.0" class="art artline" xml:space="preserve" textLength="184.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.15s">                               -.  .  :::--=</text>
-<text x="28" y="89.2" class="art artline" xml:space="preserve" textLength="201.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s">                            :.:-=+**+++==-:::.-=</text>
-<text x="28" y="96.4" class="art artline" xml:space="preserve" textLength="214.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.17s">                           ::=+***+++*+**++==--...=</text>
-<text x="28" y="103.7" class="art artline" xml:space="preserve" textLength="235.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.19s">                          --++++=-=+=+***++++**+==-:----</text>
-<text x="28" y="110.9" class="art artline" xml:space="preserve" textLength="243.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.20s">                         --++++++++===+++==+*+**++===---.=</text>
-<text x="28" y="118.1" class="art artline" xml:space="preserve" textLength="243.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.21s">                        --=++++**+==+==----=+=*=+#**+=++-:</text>
-<text x="28" y="125.3" class="art artline" xml:space="preserve" textLength="243.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.22s">                        :=+++++++++**+++**===-=+++-=%#++--</text>
-<text x="28" y="132.6" class="art artline" xml:space="preserve" textLength="239.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.23s">                       ==++++++=++=+++****++*#%+.   -@*=.</text>
-<text x="28" y="139.8" class="art artline" xml:space="preserve" textLength="235.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.25s">                       :=+++++++++++**+=--=*#@*:.::. %%:</text>
-<text x="28" y="147.0" class="art artline" xml:space="preserve" textLength="231.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.26s">                       :-=+++++++++****==+##*-   ..  **</text>
-<text x="28" y="154.2" class="art artline" xml:space="preserve" textLength="231.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.27s">                       ===+++++++*#+::=*#***=---:  .-+=</text>
-<text x="28" y="161.5" class="art artline" xml:space="preserve" textLength="243.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s">                       =-+***#%##**-:::---+.-*@##**%*-. :=</text>
-<text x="28" y="168.7" class="art artline" xml:space="preserve" textLength="226.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.29s">                       -=#+-==-=*%#=-=-=+#*=*#*=+--%-:</text>
-<text x="28" y="175.9" class="art artline" xml:space="preserve" textLength="222.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.31s">                       -=%:..=+ .==----::-+++=-:*: -:</text>
-<text x="28" y="183.1" class="art artline" xml:space="preserve" textLength="226.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.32s">                        -%* ::*=.=+===-:. .:::-=:.   =</text>
-<text x="28" y="190.4" class="art artline" xml:space="preserve" textLength="214.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.33s">                        -*%=. .*-+#+===--:..:=++.::</text>
-<text x="28" y="197.6" class="art artline" xml:space="preserve" textLength="218.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s">                        -+*%+-. .+#+-=--==-.:: =#%%=</text>
-<text x="28" y="204.8" class="art artline" xml:space="preserve" textLength="222.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.35s">                         -+*%%+=+*++----===*@%***++*-</text>
-<text x="28" y="212.0" class="art artline" xml:space="preserve" textLength="222.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.37s">                         -=+*#*+=+*+=--==++=::--=-..+</text>
-<text x="28" y="219.3" class="art artline" xml:space="preserve" textLength="218.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.38s">                          -=***-:=**++=--==:...=**:.</text>
-<text x="28" y="226.5" class="art artline" xml:space="preserve" textLength="189.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s">                           -+*=-:-+++**+=--::</text>
-<text x="28" y="233.7" class="art artline" xml:space="preserve" textLength="214.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.40s">                            +:----=+++****#%*=+*#=.</text>
-<text x="28" y="240.9" class="art artline" xml:space="preserve" textLength="210.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.41s">                            ::===--====++**+*#%*+#</text>
-<text x="28" y="248.2" class="art artline" xml:space="preserve" textLength="226.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.43s">                          *-.-====-===---=--==-+ .-+++</text>
-<text x="28" y="255.4" class="art artline" xml:space="preserve" textLength="256.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.44s">                       +:-*:-===+=-====-:-=++=+%.        .:=+</text>
-<text x="28" y="262.6" class="art artline" xml:space="preserve" textLength="281.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s">                    -.   #%=-=====-=======++=*%: :-....:.      .:-+</text>
-<text x="28" y="269.8" class="art artline" xml:space="preserve" textLength="298.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.46s">                +:     ..:%%===-++===+==--=*%*. :=:.::-:.-:::...     .+</text>
-<text x="28" y="277.0" class="art artline" xml:space="preserve" textLength="302.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.47s">             *-   .-.::.: .*@*--=*=-++====#%= .:--:.:-:.:=-:::::::.:   :</text>
-<text x="28" y="284.3" class="art artline" xml:space="preserve" textLength="306.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.49s">           -    ...=-.::..  -*+=-+-:+*++=*+.  ...::::::.-=:::-::::-:.:  =</text>
-<text x="28" y="291.5" class="art artline" xml:space="preserve" textLength="294.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.50s">        =.   .:::::--..--:..  :+++*=--=*+:  .::::::--::.--..:-:::::.-.</text>
-<text x="28" y="298.7" class="art artline" xml:space="preserve" textLength="302.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.51s">      +   .::::::::==:.:---::.  .:=+--*=  .:----::--::::=::.--:::::::.:.</text>
-<text x="28" y="305.9" class="art artline" xml:space="preserve" textLength="315.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.52s">     -  .::::::::::--=-..:=:-=-::. .*#*  ::-::-::-::::::-::.-=::::.:..::  .</text>
-<text x="28" y="313.2" class="art artline" xml:space="preserve" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s">    :  ::::::-:::::-::-=:.:-:::---. =@# .:--::::-::::::-::..:=-.:::-.:-=:. -</text>
-<text x="28" y="320.4" class="art artline" xml:space="preserve" textLength="315.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.55s">   +   :=:.:::-:..:--..-=-:::-:..:: .%% .:-::----:::::---::::=-::.-:::---:.</text>
-<text x="28" y="327.6" class="art artline" xml:space="preserve" textLength="323.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">    ::  -+:.::-=:.::--:.:---::--::.. +@  :::--:-:::::::--:::---:.:-.::--:-. .</text>
-<text x="28" y="334.8" class="art artline" xml:space="preserve" textLength="327.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.57s">  = .*.  ==:.:.-=:.:---:.::--::::--. :%. .:--:::::::::---:::---:.-:.::----.  =</text>
+<text x="28" y="82.0" class="art artline" xml:space="preserve" textLength="144.0" lengthAdjust="spacing" style="animation-delay:0.15s">                                  ==</text>
+<text x="28" y="90.2" class="art artline" xml:space="preserve" textLength="180.0" lengthAdjust="spacing" style="animation-delay:0.16s">                              -:..::..:::::-=</text>
+<text x="28" y="98.4" class="art artline" xml:space="preserve" textLength="200.0" lengthAdjust="spacing" style="animation-delay:0.17s">                            .:-+******+*+==-:..:-=</text>
+<text x="28" y="106.6" class="art artline" xml:space="preserve" textLength="220.0" lengthAdjust="spacing" style="animation-delay:0.19s">                          +:=++++====+***++++++=-::-++=</text>
+<text x="28" y="114.8" class="art artline" xml:space="preserve" textLength="228.0" lengthAdjust="spacing" style="animation-delay:0.20s">                         =-++++++++===++++++*+**++=--:--:</text>
+<text x="28" y="123.0" class="art artline" xml:space="preserve" textLength="232.0" lengthAdjust="spacing" style="animation-delay:0.21s">                        --+++++**+==+==-=--=+=+=+#*#*+++=:</text>
+<text x="28" y="131.2" class="art artline" xml:space="preserve" textLength="232.0" lengthAdjust="spacing" style="animation-delay:0.22s">                        -=++++++++=**++***+=+=+*=-:-#%++:-</text>
+<text x="28" y="139.4" class="art artline" xml:space="preserve" textLength="228.0" lengthAdjust="spacing" style="animation-delay:0.23s">                       -=+++++++++=+++*++==*#%%=.   .%#-:</text>
+<text x="28" y="147.6" class="art artline" xml:space="preserve" textLength="224.0" lengthAdjust="spacing" style="animation-delay:0.25s">                       :==+++++++++****--=*##+:  ::  ##=</text>
+<text x="28" y="155.8" class="art artline" xml:space="preserve" textLength="220.0" lengthAdjust="spacing" style="animation-delay:0.26s">                       =-=+++++++**+--=***#*=-:::  .:+=</text>
+<text x="28" y="164.0" class="art artline" xml:space="preserve" textLength="232.0" lengthAdjust="spacing" style="animation-delay:0.27s">                       ==+***####**=.::-==+:-*%#*+*%*:..:=</text>
+<text x="28" y="172.2" class="art artline" xml:space="preserve" textLength="216.0" lengthAdjust="spacing" style="animation-delay:0.28s">                       -=#=--=-:+#*--=-=+#*+##+-+-:#--</text>
+<text x="28" y="180.4" class="art artline" xml:space="preserve" textLength="212.0" lengthAdjust="spacing" style="animation-delay:0.29s">                        =%- .-*..==---::..-=--:-+: ..</text>
+<text x="28" y="188.6" class="art artline" xml:space="preserve" textLength="216.0" lengthAdjust="spacing" style="animation-delay:0.31s">                        -#%:..-*-+#+==--:..::-++. .  =</text>
+<text x="28" y="196.8" class="art artline" xml:space="preserve" textLength="208.0" lengthAdjust="spacing" style="animation-delay:0.32s">                        -+##=:..:+#+-==-=-:.::.=**#-</text>
+<text x="28" y="205.0" class="art artline" xml:space="preserve" textLength="212.0" lengthAdjust="spacing" style="animation-delay:0.33s">                         -+*%%+=+*++----===*%#++*++*:</text>
+<text x="28" y="213.2" class="art artline" xml:space="preserve" textLength="212.0" lengthAdjust="spacing" style="animation-delay:0.34s">                         =-+*#*+=+*+=---=++=::-=+=..+</text>
+<text x="28" y="221.4" class="art artline" xml:space="preserve" textLength="208.0" lengthAdjust="spacing" style="animation-delay:0.35s">                          --+#+-:=**+++=---:.  :-=.:</text>
+<text x="28" y="229.6" class="art artline" xml:space="preserve" textLength="200.0" lengthAdjust="spacing" style="animation-delay:0.37s">                            +=----+++***++++=::--:</text>
+<text x="28" y="237.8" class="art artline" xml:space="preserve" textLength="204.0" lengthAdjust="spacing" style="animation-delay:0.38s">                            -.-==-====++**#*##%#*##</text>
+<text x="28" y="246.0" class="art artline" xml:space="preserve" textLength="216.0" lengthAdjust="spacing" style="animation-delay:0.39s">                          *-.-====-===---=--==-*.:=+++</text>
+<text x="28" y="254.2" class="art artline" xml:space="preserve" textLength="248.0" lengthAdjust="spacing" style="animation-delay:0.40s">                       -:=*:-===+=-=====--=++=*#. .       .:=+</text>
+<text x="28" y="262.4" class="art artline" xml:space="preserve" textLength="276.0" lengthAdjust="spacing" style="animation-delay:0.41s">                  +-.    *@*-===+==========++#+. --..:::...      .:-=</text>
+<text x="28" y="270.6" class="art artline" xml:space="preserve" textLength="284.0" lengthAdjust="spacing" style="animation-delay:0.43s">               =.  . ...: =%#+--+*==++==--+#*- .--:.:-:::--:::::..    .</text>
+<text x="28" y="278.8" class="art artline" xml:space="preserve" textLength="280.0" lengthAdjust="spacing" style="animation-delay:0.44s">           +:    .:=-.:::. .+#+=-+=:+*++=**-  .::::::::.-=:::-::::::.:</text>
+<text x="28" y="287.0" class="art artline" xml:space="preserve" textLength="280.0" lengthAdjust="spacing" style="animation-delay:0.45s">        =.   .::::.--..--:.   :=++*---=*+:  .::::::--::.--..:-:::::.-:</text>
+<text x="28" y="295.2" class="art artline" xml:space="preserve" textLength="288.0" lengthAdjust="spacing" style="animation-delay:0.46s">      =   .::::::::-=:..:--::.  .:-==-*=  ::-:--::-:::::=::.-=:::::::.:.</text>
+<text x="28" y="303.4" class="art artline" xml:space="preserve" textLength="292.0" lengthAdjust="spacing" style="animation-delay:0.47s">     . ..::::::::::----:..--:---:: .*%* .:--::-::-::::::-::.-=::::.:..-:.</text>
+<text x="28" y="311.6" class="art artline" xml:space="preserve" textLength="304.0" lengthAdjust="spacing" style="animation-delay:0.49s">       -=::::--:.::--.:=-:::::.::-: :@# .:-:::-:-::::::-:::::=-.:.::.:-=-. .</text>
+<text x="28" y="319.8" class="art artline" xml:space="preserve" textLength="308.0" lengthAdjust="spacing" style="animation-delay:0.50s">   .:. .==..::--:.:--:..---:::-::::  *@  ::::---:::::::--::::--:.:-:::--:-. :</text>
+<text x="28" y="328.0" class="art artline" xml:space="preserve" textLength="312.0" lengthAdjust="spacing" style="animation-delay:0.51s">  = :+. .==:.::-=:.:---:.:---::::--. :%. .:--::-::::::---:::---:.-:.::----.  +</text>
 <text x="470" y="90.0" class="hdr row" style="animation-delay:0.35s">aryan dani</text>
 <line x1="470" y1="99.2" x2="1080" y2="99.2" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
 <text x="470" y="115.2" class="key row" style="animation-delay:0.49s">Role</text>
@@ -97,5 +92,5 @@
 <text x="566" y="437.6" class="acc row" style="animation-delay:1.68s">daniaryan212@gmail.com</text>
 <text x="470" y="464.8" class="row" style="animation-delay:1.75s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 29   ·   stars 50   ·   followers 14</tspan></text>
 <text x="28" y="507" class="row" style="animation-delay:1.92s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI / full-stack roles and collabs</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="1086" y="507" class="mut" text-anchor="end">last updated 19 Jul 2026, 18:29 IST</text>
+<text x="1086" y="507" class="mut" text-anchor="end">last updated 19 Jul 2026, 18:31 IST</text>
 </svg>

@@ -24,9 +24,8 @@ from rembg import remove
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
 COLS = 90
-# MUST match generate_profile.py ART_LH / ART_CW (currently 1.72).
-# Using a smaller value creates extra rows that look vertically stretched in the SVG.
-ASPECT = 1.72
+# MUST equal generate_profile.py ART_ASPECT (ART_LH / ART_CW).
+ASPECT = 2.05
 BUST = 0.75
 DETAIL = 3.0
 WEIGHT = 0.4

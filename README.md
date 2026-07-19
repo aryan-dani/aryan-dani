@@ -7,9 +7,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/light.svg" />
-    <img alt="Aryan Dani — AI Engineer & Full-Stack Developer" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/dark.svg?v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/light.svg?v=4" />
+    <img alt="Aryan Dani — AI Engineer & Full-Stack Developer" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/dark.svg?v=4" width="100%" />
   </picture>
 </div>
 
