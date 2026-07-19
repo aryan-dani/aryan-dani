@@ -25,10 +25,10 @@ from rembg import remove
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
 COLS = 90
 ASPECT = 1.72  # svg line-height / char-width
-BUST = 0.70  # head + shoulders + tie
-DETAIL = 2.9  # light shirt / glasses need extra local contrast
-WEIGHT = 0.42
-MAX_ROWS = 58
+BUST = 0.68  # head + shoulders
+DETAIL = 3.0  # white shirt / glasses need strong local contrast
+WEIGHT = 0.4
+MAX_ROWS = 52
 RAMP = "@%#*+=-:. "  # darkest -> lightest
 
 

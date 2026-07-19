@@ -91,12 +91,36 @@ THEMES = {
     },
 }
 
-W, H = 1120, 680
+W = 1120
 ART_X, ART_Y = 28, 82
 ART_CW = 4.35  # wider glyphs so the portrait fills more of the card
 ART_LH = ART_CW * 1.72
 INFO_X, INFO_Y, INFO_LH = 470, 90, 17.2
 VAL_X = INFO_X + 96
+FOOTER_GAP = 26  # space between content and footer line
+FOOTER_PAD = 20  # space below footer to card edge
+
+
+def measure_info_bottom():
+    y = INFO_Y
+    for label, _value, _ckey in INFO:
+        if label == "__header__":
+            y += INFO_LH
+        elif label == "__rule__":
+            y += 8
+        elif label == "__blank__":
+            y += 10
+        else:
+            y += INFO_LH
+    return y
+
+
+def measure_art_bottom(art_lines):
+    bottom = ART_Y
+    for i, line in enumerate(art_lines):
+        if line.strip():
+            bottom = ART_Y + i * ART_LH
+    return bottom
 
 
 # ----------------------------------------------------------------------------
@@ -140,11 +164,14 @@ def fetch_stats():
 # ----------------------------------------------------------------------------
 def render(theme_name, colors, stats, ist_now):
     art_lines = load_portrait()
+    content_bottom = max(measure_art_bottom(art_lines), measure_info_bottom())
+    h = int(content_bottom + FOOTER_GAP + FOOTER_PAD)
+    fy = h - FOOTER_PAD
 
     parts = []
     parts.append(
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
-        f'viewBox="0 0 {W} {H}" font-family="ui-monospace, SFMono-Regular, '
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" '
+        f'viewBox="0 0 {W} {h}" font-family="ui-monospace, SFMono-Regular, '
         f"'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace\">"
     )
 
@@ -169,7 +196,7 @@ def render(theme_name, colors, stats, ist_now):
 
     # window chrome
     parts.append(
-        f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="12" '
+        f'<rect x="1" y="1" width="{W-2}" height="{h-2}" rx="12" '
         f'fill="{colors["bg"]}" stroke="{colors["border"]}" stroke-width="1.5"/>'
     )
     parts.append(
@@ -263,7 +290,6 @@ def render(theme_name, colors, stats, ist_now):
         delay += 0.07
 
     # footer prompt + blinking cursor
-    fy = H - 24
     parts.append(
         f'<text x="{ART_X}" y="{fy}" class="row" '
         f'style="animation-delay:{delay+0.1:.2f}s">'
