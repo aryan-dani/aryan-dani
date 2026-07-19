@@ -11,30 +11,53 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/light.svg" />
     <img alt="Aryan Dani — AI Engineer & Full-Stack Developer" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/dark.svg" width="100%" />
   </picture>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Profile views" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/banner_github.jpg" alt="Aryan Dani" width="100%" />
 </div>
 
 ---
 
 ### Featured work
 
-| Project | What it is | Links |
-| :-- | :-- | :-- |
-| **Shadow Instructor** | Dual-agent technical interview simulator on Gemini 3.0 | [Live](https://the-shadow-instructor.vercel.app/) · [Repo](https://github.com/aryan-dani/The_Shadow_Instructor) |
-| **Arbiter** | Autonomous CI/CD healing agents · RIFT 2026 | [Live](https://thearbiter.vercel.app/) · [Repo](https://github.com/aryan-dani/Arbiter) |
-| **Utility** | Academic OS with document intelligence / RAG | [Live](https://utilityos.tech) · [Repo](https://github.com/aryan-dani/Utility) |
-| **The Fourth Clover** | Minimal blogging platform · Next.js 15 + Supabase | [Live](https://thefourthclover.bio/) · [Repo](https://github.com/aryan-dani/The-Fourth-Clover) |
-| **Democrazy** | Election-readiness learning app with Gemini | [Live](https://democrazy-omega.vercel.app/) · [Repo](https://github.com/aryan-dani/Democrazy) |
-| **Threat Detection** | YOLO v11 + EfficientNetV2 capstone pipeline | [Live](https://aryan-dani.github.io/Threat_Detection_System/) · [Repo](https://github.com/aryan-dani/Threat_Detection_System) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">What it is</th>
+      <th align="left">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Shadow Instructor</strong></td>
+      <td>Dual-agent technical interview simulator on Gemini 3.0</td>
+      <td><a href="https://the-shadow-instructor.vercel.app/">Live</a> · <a href="https://github.com/aryan-dani/The_Shadow_Instructor">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Arbiter</strong></td>
+      <td>Autonomous CI/CD healing agents · RIFT 2026</td>
+      <td><a href="https://thearbiter.vercel.app/">Live</a> · <a href="https://github.com/aryan-dani/Arbiter">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Utility</strong></td>
+      <td>Academic OS with document intelligence / RAG</td>
+      <td><a href="https://utilityos.tech">Live</a> · <a href="https://github.com/aryan-dani/Utility">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>The Fourth Clover</strong></td>
+      <td>Minimal blogging platform · Next.js 15 + Supabase</td>
+      <td><a href="https://thefourthclover.bio/">Live</a> · <a href="https://github.com/aryan-dani/The-Fourth-Clover">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Democrazy</strong></td>
+      <td>Election-readiness learning app with Gemini</td>
+      <td><a href="https://democrazy-omega.vercel.app/">Live</a> · <a href="https://github.com/aryan-dani/Democrazy">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Threat Detection</strong></td>
+      <td>YOLO v11 + EfficientNetV2 capstone pipeline</td>
+      <td><a href="https://aryan-dani.github.io/Threat_Detection_System/">Live</a> · <a href="https://github.com/aryan-dani/Threat_Detection_System">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 More on [aryandani.com/projects](https://www.aryandani.com/projects).
 
@@ -85,6 +108,8 @@ timeline
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Profile views" />
+  <br /><br />
   <i>Chai over coffee. Anime when stuck. Always shipping.</i><br /><br />
   <a href="https://www.aryandani.com/contact">
     <img src="https://img.shields.io/badge/Let's_build_something-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Contact" />
