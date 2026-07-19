@@ -23,12 +23,12 @@ from PIL import Image, ImageFilter, ImageOps
 from rembg import remove
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
-COLS = 90
-ASPECT = 1.72  # svg line-height / char-width
-BUST = 0.68  # head + shoulders
-DETAIL = 3.0  # white shirt / glasses need strong local contrast
+COLS = 88
+ASPECT = 1.45  # lower = more rows (taller ASCII in the card)
+BUST = 0.82  # include more torso so the portrait has height
+DETAIL = 3.0
 WEIGHT = 0.4
-MAX_ROWS = 52
+MAX_ROWS = 56
 RAMP = "@%#*+=-:. "  # darkest -> lightest
 
 

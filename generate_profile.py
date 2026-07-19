@@ -94,7 +94,7 @@ THEMES = {
 W = 1120
 ART_X, ART_Y = 28, 82
 ART_CW = 4.35  # wider glyphs so the portrait fills more of the card
-ART_LH = ART_CW * 1.72
+ART_LH_BASE = ART_CW * 1.55  # denser default; may stretch to match info panel
 INFO_X, INFO_Y, INFO_LH = 470, 90, 17.2
 VAL_X = INFO_X + 96
 FOOTER_GAP = 26  # space between content and footer line
@@ -115,11 +115,26 @@ def measure_info_bottom():
     return y
 
 
-def measure_art_bottom(art_lines):
+def art_line_count(art_lines):
+    return sum(1 for line in art_lines if line.strip())
+
+
+def resolve_art_lh(art_lines, info_bottom):
+    """Stretch ASCII line height so the portrait fills down to the info panel."""
+    n = art_line_count(art_lines)
+    if n <= 1:
+        return ART_LH_BASE
+    # last visible line should land near the info bottom
+    target = (info_bottom - ART_Y) / (n - 1)
+    # keep glyphs readable — don't squash or explode too far
+    return max(ART_CW * 1.35, min(target, ART_CW * 1.95))
+
+
+def measure_art_bottom(art_lines, art_lh):
     bottom = ART_Y
     for i, line in enumerate(art_lines):
         if line.strip():
-            bottom = ART_Y + i * ART_LH
+            bottom = ART_Y + i * art_lh
     return bottom
 
 
@@ -164,7 +179,9 @@ def fetch_stats():
 # ----------------------------------------------------------------------------
 def render(theme_name, colors, stats, ist_now):
     art_lines = load_portrait()
-    content_bottom = max(measure_art_bottom(art_lines), measure_info_bottom())
+    info_bottom = measure_info_bottom()
+    art_lh = resolve_art_lh(art_lines, info_bottom)
+    content_bottom = max(measure_art_bottom(art_lines, art_lh), info_bottom)
     h = int(content_bottom + FOOTER_GAP + FOOTER_PAD)
     fy = h - FOOTER_PAD
 
@@ -176,8 +193,10 @@ def render(theme_name, colors, stats, ist_now):
     )
 
     # styles + animations
+    # font-size scales lightly with line height so stretched art stays solid
+    art_fs = max(6.0, min(7.4, art_lh * 0.82))
     parts.append(f"""<style>
-    .art  {{ fill:{colors['art']}; font-size:6.2px; white-space:pre; }}
+    .art  {{ fill:{colors['art']}; font-size:{art_fs:.2f}px; white-space:pre; }}
     .key  {{ fill:{colors['key']}; font-size:13px; font-weight:700; }}
     .val  {{ fill:{colors['text']}; font-size:13px; }}
     .acc  {{ fill:{colors['accent']}; font-size:13px; }}
@@ -227,7 +246,7 @@ def render(theme_name, colors, stats, ist_now):
     for i, line in enumerate(art_lines):
         if not line.strip():
             continue
-        y = ART_Y + i * ART_LH
+        y = ART_Y + i * art_lh
         delay = 0.15 + i * 0.012
         tl = len(line) * ART_CW
         parts.append(
