@@ -17,12 +17,21 @@
 
 ### Featured work
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">What it is</th>
-      <th align="left">Links</th>
+      <th align="left">
+        <img alt="" width="260" height="1" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/spacer.png" />
+        <br />Project
+      </th>
+      <th align="left">
+        <img alt="" width="620" height="1" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/spacer.png" />
+        <br />What it is
+      </th>
+      <th align="left">
+        <img alt="" width="220" height="1" src="https://raw.githubusercontent.com/aryan-dani/aryan-dani/main/spacer.png" />
+        <br />Links
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -95,7 +104,7 @@ timeline
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-dani&bg_color=00000000&color=8b949e&line=58a6ff&point=c9d1d9&hide_border=true&area=true&area_color=161b22" width="100%" alt="Contribution graph" />
 </div>
 
-<br />
+---
 
 <div align="center">
   <picture>
@@ -109,9 +118,4 @@ timeline
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryan-dani&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Profile views" />
-  <br /><br />
-  <i>Chai over coffee. Anime when stuck. Always shipping.</i><br /><br />
-  <a href="https://www.aryandani.com/contact">
-    <img src="https://img.shields.io/badge/Let's_build_something-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Contact" />
-  </a>
 </p>
