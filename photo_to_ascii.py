@@ -23,12 +23,12 @@ from PIL import Image, ImageFilter, ImageOps
 from rembg import remove
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
-COLS = 88
-ASPECT = 1.45  # lower = more rows (taller ASCII in the card)
-BUST = 0.82  # include more torso so the portrait has height
+COLS = 92
+ASPECT = 1.38  # more rows at natural glyph aspect (no SVG stretch)
+BUST = 0.78
 DETAIL = 3.0
 WEIGHT = 0.4
-MAX_ROWS = 56
+MAX_ROWS = 54
 RAMP = "@%#*+=-:. "  # darkest -> lightest
 
 
