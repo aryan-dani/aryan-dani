@@ -23,11 +23,12 @@ from PIL import Image, ImageFilter, ImageOps
 from rembg import remove
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else "photo.jpg"
-COLS = 96
+COLS = 90
 ASPECT = 1.72  # svg line-height / char-width
-BUST = 0.82
-DETAIL = 2.6
-WEIGHT = 0.5
+BUST = 0.70  # head + shoulders + tie
+DETAIL = 2.9  # light shirt / glasses need extra local contrast
+WEIGHT = 0.42
+MAX_ROWS = 58
 RAMP = "@%#*+=-:. "  # darkest -> lightest
 
 
@@ -69,6 +70,8 @@ def main():
     ink = np.clip((ink - lo) * 255.0 / max(1, hi - lo), 0, 255)
 
     rows = max(1, int(COLS * (h / w) / ASPECT))
+    if rows > MAX_ROWS:
+        rows = MAX_ROWS
     small = np.asarray(
         Image.fromarray(ink.astype(np.uint8)).resize(
             (COLS, rows), Image.LANCZOS
@@ -89,13 +92,20 @@ def main():
             RAMP[round(small[y, x] / 255 * n)] if mask[y, x] > 110 else " "
             for x in range(COLS)
         )
-        lines.append(line.rstrip())
+        # keep full width so the SVG art column stays consistent
+        lines.append(line.ljust(COLS).rstrip() if line.strip() else line)
+
+    # trim empty top/bottom, then left-pad so the bust is centered in COLS
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    while lines and not lines[-1].strip():
+        lines.pop()
 
     Path(__file__).parent.joinpath("portrait.txt").write_text(
         "\n".join(lines), encoding="utf-8"
     )
     print("\n".join(lines))
-    print(f"\nwrote portrait.txt  ({COLS} cols x {rows} rows)")
+    print(f"\nwrote portrait.txt  ({COLS} cols x {len(lines)} rows)")
 
 
 if __name__ == "__main__":

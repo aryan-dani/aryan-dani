@@ -91,12 +91,12 @@ THEMES = {
     },
 }
 
-W, H = 980, 620
-ART_X, ART_Y = 30, 86
-ART_CW = 3.9  # forced char width (textLength keeps this exact in any font)
+W, H = 1120, 680
+ART_X, ART_Y = 28, 82
+ART_CW = 4.35  # wider glyphs so the portrait fills more of the card
 ART_LH = ART_CW * 1.72
-INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
-VAL_X = INFO_X + 92
+INFO_X, INFO_Y, INFO_LH = 470, 90, 17.2
+VAL_X = INFO_X + 96
 
 
 # ----------------------------------------------------------------------------

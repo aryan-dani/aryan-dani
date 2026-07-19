@@ -72,7 +72,7 @@ More on [aryandani.com/projects](https://www.aryandani.com/projects).
 
 ---
 
-### My tech journey
+### My Tech Journey
 
 ```mermaid
 timeline
